@@ -1,0 +1,25 @@
+diff --git a/src/core/wee-command.c b/src/core/wee-command.c
+index 7e12712a8..1fc9c0519 100644
+--- a/src/core/wee-command.c
++++ b/src/core/wee-command.c
+@@ -6209,6 +6209,19 @@ COMMAND_CALLBACK(upgrade)
+                     free (ptr_binary);
+                     return WEECHAT_RC_OK;
+                 }
++		if (weechat_argv0 == NULL) {
++			gui_chat_printf(NULL,
++					"%sNixOS: weechat_argv0 is NULL",
++					gui_chat_prefix[GUI_CHAT_PREFIX_ERROR]);
++		}
++		if (weechat_argv0 && strcmp(ptr_binary, weechat_argv0) == 0) {
++		    gui_chat_printf (NULL,
++				     "%sNixOS: Not upgrading. The binary is the same: \"%s\"",
++				     gui_chat_prefix[GUI_CHAT_PREFIX_ERROR],
++				     ptr_binary);
++		    free (ptr_binary);
++		    return WEECHAT_RC_OK;
++		}
+             }
+         }
+     }
+

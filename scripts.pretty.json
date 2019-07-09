@@ -1,0 +1,3233 @@
+{
+  "weetris": {
+    "name": "weetris",
+    "language": "perl",
+    "version": "0.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weetris.pl",
+    "md5sum": "47d957812321cd33790ea70fbf3a0932",
+    "sha256": "0cw88r74czxbi5syzqwha666fgcxzvv0mggwmdm8dq6irs9a8ggl"
+  },
+  "awaylog": {
+    "name": "awaylog",
+    "language": "perl",
+    "version": "0.8",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/awaylog.pl",
+    "md5sum": "3e565a02a4ecc6cc7376e7314df7ef51",
+    "sha256": "0q59sbb4pbsfrwx7bxasgd64hh21la10w6n170lxi0mz4rhhkl3r"
+  },
+  "buffers": {
+    "name": "buffers",
+    "language": "perl",
+    "version": "5.6",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/buffers.pl",
+    "md5sum": "0fb4528f0db4d851977759535b49ccc5",
+    "sha256": "120340hfhjpc5p73s73vnpw2fx59dc0mx5qc17fyc6i0x14lvsl1"
+  },
+  "crypt": {
+    "name": "crypt",
+    "language": "python",
+    "version": "1.4.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/crypt.py",
+    "md5sum": "e54d8f858b3656df57acc24fe6eddb8e",
+    "sha256": "0xyfy4jx9w5nk5za13kmhdcg9c86lyq80b1ymgf0zk7lh088n24w"
+  },
+  "go": {
+    "name": "go",
+    "language": "python",
+    "version": "2.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/go.py",
+    "md5sum": "3c3ea7f727e42f0d2227faa1eb6903a8",
+    "sha256": "0ajfv4sl66jq02zzmdas81rvnv2l6dl3ckb4xzkyb3kdm68w31rf"
+  },
+  "iset": {
+    "name": "iset",
+    "language": "perl",
+    "version": "4.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/iset.pl",
+    "md5sum": "0525e6dffbed5af1c0f81296508c5bdd",
+    "sha256": "134r959dd607pj7lkggnrzlmn1jamalcy9d18zvmx1xjs7rh8r0a"
+  },
+  "launcher": {
+    "name": "launcher",
+    "language": "perl",
+    "version": "0.7",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/launcher.pl",
+    "md5sum": "8f497a33858391475533288e4d62edb7",
+    "sha256": "1nq5zd9c145nn0hj0gf5i3kjyr98h1whm3jwkb4irs927czq5bn3"
+  },
+  "mastermind": {
+    "name": "mastermind",
+    "language": "perl",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/mastermind.pl",
+    "md5sum": "55a3a45192283e9055c3efd267c735f0",
+    "sha256": "00x2b113ahxr96xn7h1psfirclxx0cx6zn174g3p1yf4cphpaarp"
+  },
+  "moc": {
+    "name": "moc",
+    "language": "perl",
+    "version": "0.5",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/moc.pl",
+    "md5sum": "608e962621a489ea96e292c260897ad5",
+    "sha256": "1nq8qq6dhkhd6hahji60i8px0gxv453hazyhqxvyx7i9plmvzzpq"
+  },
+  "mpdnp": {
+    "name": "mpdnp",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/mpdnp.py",
+    "md5sum": "7f11dcd09160008b06b08f567ad3cb1b",
+    "sha256": "0gk2w719a3prhkxilp7vd36yzcjxm92g34flafpiz8fsshrfzffl"
+  },
+  "pagetitle": {
+    "name": "pagetitle",
+    "language": "python",
+    "version": "0.5",
+    "license": "Public_domain",
+    "url": "https://weechat.org/files/scripts/pagetitle.py",
+    "md5sum": "d4aa824d36e4e664a0f33fd3034db322",
+    "sha256": "0nnh6byq2yvis2kcs0k8v7q2597i0i0vdivplmqlgx55j5r274qx"
+  },
+  "sound": {
+    "name": "sound",
+    "language": "perl",
+    "version": "0.7",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/sound.pl",
+    "md5sum": "41046efcfa04bbf39810700eab477f25",
+    "sha256": "1y8n7qsynh313r737zvsgp4ziqbcw6n4rq5py699wg7cg8nwyjzs"
+  },
+  "tinyurl": {
+    "name": "tinyurl",
+    "language": "python",
+    "version": "3.8",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/tinyurl.py",
+    "md5sum": "5259b5f09b4f0a654b43c7b5b73cebd1",
+    "sha256": "0ni1s595fc9p7c9k4kyiql6gls75r0a9aylcv0rc5f17ypzj5q0j"
+  },
+  "url_shorten": {
+    "name": "url_shorten",
+    "language": "ruby",
+    "version": "1.9.0",
+    "license": "BSD-2c",
+    "url": "https://weechat.org/files/scripts/url_shorten.rb",
+    "md5sum": "3a6e027244e2eb163dd62f07d317e2a9",
+    "sha256": "06qld9nb9l14iia2nb9156z2bvy4rg4ii8piqhyfib73gdygyyf2"
+  },
+  "vdm": {
+    "name": "vdm",
+    "language": "python",
+    "version": "1.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/vdm.py",
+    "md5sum": "527813c80b2c59da66ecc5fd7b1c2a57",
+    "sha256": "0f47cr46q0rf51m7ccd2mp2m7q91i9sbfp4kbybgrpy0ra085ybm"
+  },
+  "whois_on_query": {
+    "name": "whois_on_query",
+    "language": "python",
+    "version": "0.6.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/whois_on_query.py",
+    "md5sum": "8554b3a9109e6e3b87978633f9960650",
+    "sha256": "1rcpl7apx0063vv1743fg77x56irxgn8kl5hqb03m0jhn0ss4pky"
+  },
+  "weeget": {
+    "name": "weeget",
+    "language": "python",
+    "version": "2.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weeget.py",
+    "md5sum": "692b50cc26a56da1cb7993dd9d6d9cc6",
+    "sha256": "1dq9y0d9nn85b1lji2vhfcb3qy723spdq5z7pja298zplhdvsl1h"
+  },
+  "quodnp": {
+    "name": "quodnp",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/quodnp.py",
+    "md5sum": "02983ce8a9c37e11e76e289e8c44cf30",
+    "sha256": "0bc9lhs904vg93mv5q5wirdc8xpsgz3myp9sqpacf9v72z2ngq79"
+  },
+  "notify": {
+    "name": "notify",
+    "language": "python",
+    "version": "0.0.8",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/notify.py",
+    "md5sum": "398bb0b43f2eb968b633f9bddc3f85b0",
+    "sha256": "0xgsz4a7dw76w0myzinnr8nbzad9ws30dvd6bx9b401x4wyd9jvk"
+  },
+  "chan_hl": {
+    "name": "chan_hl",
+    "language": "tcl",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/chan_hl.tcl",
+    "md5sum": "39b3ff090ca41d6adcae1275fc68b55c",
+    "sha256": "0ckjnis2d67352mvlkz4yvnq8vhga8y802am3d1y692b31yqjdzk"
+  },
+  "growl_net_notify": {
+    "name": "growl_net_notify",
+    "language": "perl",
+    "version": "0.5",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/growl_net_notify.pl",
+    "md5sum": "4a7f770f4969d547cbaac0e2c968d7bf",
+    "sha256": "0ga6giqsyy9kn6srzcc47vv3qxx443g7ylf5j83d6jqz2wi15qvv"
+  },
+  "audacious": {
+    "name": "audacious",
+    "language": "perl",
+    "version": "0.3",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/audacious.pl",
+    "md5sum": "867a3158e8c3f682684cec791f64c992",
+    "sha256": "0xgy8k05aj3988yc9bpz1ahn147grxswqqcd56bf3p1wqiy621kg"
+  },
+  "fortune": {
+    "name": "fortune",
+    "language": "perl",
+    "version": "0.2",
+    "license": "Public_domain",
+    "url": "https://weechat.org/files/scripts/fortune.pl",
+    "md5sum": "fbdc04bb0a0464d271b89157f2979c3e",
+    "sha256": "0328229w6yny8sdq22a8ap95x46bx8pkqgvjck8spraaf5s507ak"
+  },
+  "kernel": {
+    "name": "kernel",
+    "language": "perl",
+    "version": "0.4",
+    "license": "Public_domain",
+    "url": "https://weechat.org/files/scripts/kernel.pl",
+    "md5sum": "2cb993fd9c05464ae3dbb4f6d11179a6",
+    "sha256": "11kw76mld23302x97cjqlmp69cvf7ij1fxrpsg1469p095lravzv"
+  },
+  "shuffle": {
+    "name": "shuffle",
+    "language": "perl",
+    "version": "0.1",
+    "license": "Public_domain",
+    "url": "https://weechat.org/files/scripts/shuffle.pl",
+    "md5sum": "416b58fdde4a294e4c0ae9c39a054682",
+    "sha256": "0p4hj627my7p9k5clwzcg7d3s5aslgrr3gj916krjb3ikdwv19zq"
+  },
+  "kbtimeout": {
+    "name": "kbtimeout",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/kbtimeout.py",
+    "md5sum": "95fcd69d91da72dac5e779f1e9e10f66",
+    "sha256": "1xqqdni7pmsh9jw6aknv88qird7xsvyr2qrlnfp6wdxhnifrl8b6"
+  },
+  "title": {
+    "name": "title",
+    "language": "python",
+    "version": "0.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/title.py",
+    "md5sum": "c3f2ea258ad3490226affaa0bb42d6b5",
+    "sha256": "1h8mxpv47q3inhynlfjm3pdjxlr2fl06z4cdhr06kpm8f7xvz56p"
+  },
+  "chanact": {
+    "name": "chanact",
+    "language": "python",
+    "version": "0.8",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/chanact.py",
+    "md5sum": "d650e4d9a7e86cbee48a6e7e2e495af1",
+    "sha256": "0q4kr74wynni3n36l7i00zqpp2pp4cp4rzzp4d90zkq10555kxcp"
+  },
+  "urlbar": {
+    "name": "urlbar",
+    "language": "python",
+    "version": "12",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/urlbar.py",
+    "md5sum": "45afa8221ccaaa12e62cc73aef4fe7f5",
+    "sha256": "0szw2cgmzrp6zyapd41xjhbp9xdr9qz1alrvagm17fq2iaaqfbw5"
+  },
+  "urlgrab": {
+    "name": "urlgrab",
+    "language": "python",
+    "version": "3.0",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/urlgrab.py",
+    "md5sum": "72562aab2afe57127ff77f19046996e0",
+    "sha256": "1z940g7r5w7qsay5jl7mr4ra9nyw3cgp5398i9xkmd0cxqw9aiw7"
+  },
+  "chanmon": {
+    "name": "chanmon",
+    "language": "perl",
+    "version": "2.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/chanmon.pl",
+    "md5sum": "9e1902e9b9f03493347dc302838eadb3",
+    "sha256": "1w6ycswg4inal5g0f23k45lpm7w9mfgqw7r93piz4f13m3nlihr8"
+  },
+  "bufsave": {
+    "name": "bufsave",
+    "language": "python",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/bufsave.py",
+    "md5sum": "03e49e1e4c828ba8ee3a503355e7ec1a",
+    "sha256": "19kz3vb163dhw5s1gs4cz18zdkf3609maffhmsyadzyfgb57sf1l"
+  },
+  "histsearch": {
+    "name": "histsearch",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/histsearch.py",
+    "md5sum": "0c822275c720e56dc96cd84a5a42bdff",
+    "sha256": "0k4m4s8rysdyslmprn9szwicl58m2m3wf1fcqa740djqld9jd3rr"
+  },
+  "weempd": {
+    "name": "weempd",
+    "language": "python",
+    "version": "0.1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weempd.py",
+    "md5sum": "b4849b5daeec6d064676041bbff6fd76",
+    "sha256": "1sxvnpfysdr188diyf9v9jgz89q7ig6zjxcyfg271pp4afz0jrfd"
+  },
+  "kiloseconds": {
+    "name": "kiloseconds",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/kiloseconds.py",
+    "md5sum": "66ee61bfc404aa1389625b130c8476ba",
+    "sha256": "14as52xcibgzpq0wh06d7p96y98gdcgiq5q5z13n3cgfbic8irdd"
+  },
+  "autojoin": {
+    "name": "autojoin",
+    "language": "python",
+    "version": "0.3.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/autojoin.py",
+    "md5sum": "53f0344ba51f69d8cfdf3b2ec4229dad",
+    "sha256": "1hv2mfaggavji4njiw8c7jy4bpcxh8qmyraddk0lhl1fgyv69ari"
+  },
+  "toggle_nicklist": {
+    "name": "toggle_nicklist",
+    "language": "python",
+    "version": "0.7",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/toggle_nicklist.py",
+    "md5sum": "3a6d0e84e53bda80ffbc90317ff21893",
+    "sha256": "0nalmcg3na08kxp0z45y8zd8rlbpd9x4rgr4rj4mf2g5nmk1hj3g"
+  },
+  "rslap": {
+    "name": "rslap",
+    "language": "perl",
+    "version": "1.3.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/rslap.pl",
+    "md5sum": "0e78eba983716192b08d6557cfe41d51",
+    "sha256": "0pcl3riqm5ibch546l4ja96zbg5f8lpaaxdc93q2c2hmh69ncdin"
+  },
+  "identica": {
+    "name": "identica",
+    "language": "python",
+    "version": "0.4.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/identica.py",
+    "md5sum": "b4669445be89b3f56bf1d2478b770c77",
+    "sha256": "10zhqqjhgxl9b8p0g8fwdrw7izilgzfknbgxrl0v7f5h592df6ff"
+  },
+  "highmon": {
+    "name": "highmon",
+    "language": "perl",
+    "version": "2.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/highmon.pl",
+    "md5sum": "10aca1e3bd3ff5cfec50ab7d803078f0",
+    "sha256": "03m87j9drw8cp9dcnmr67ribj3kshhzw4y9ifq4jbp0z0zb22f04"
+  },
+  "grep": {
+    "name": "grep",
+    "language": "python",
+    "version": "0.8.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/grep.py",
+    "md5sum": "165c9b7d36420f57e2cf8146f477f91e",
+    "sha256": "0ixfvcpch77fyvv9590jh55mllkjjasblqjpjbbkgjg4by6035xk"
+  },
+  "country": {
+    "name": "country",
+    "language": "python",
+    "version": "0.6",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/country.py",
+    "md5sum": "4d6b53fab0650f4ff0611588a5824a95",
+    "sha256": "1dylwb3wp45cdwicvnj6zhy1fx14dxzkaxs63cac6dadgxq578p6"
+  },
+  "moc_control": {
+    "name": "moc_control",
+    "language": "python",
+    "version": "1.7.3",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/moc_control.py",
+    "md5sum": "91fde81b7280891506e14321f9364ba0",
+    "sha256": "0fnlcmfdy84cf0x3n2dgy2j975rkha96dwryq79564sd71whwl6m"
+  },
+  "mpdspam": {
+    "name": "mpdspam",
+    "language": "ruby",
+    "version": "1.0",
+    "license": "BSD-2c",
+    "url": "https://weechat.org/files/scripts/mpdspam.rb",
+    "md5sum": "395d3aa9e88b2c92fc154f462ff690e0",
+    "sha256": "0wry66k5d2v171g4hpj9h6cjh9fd1ris7yjvmgkh031d2v92sp06"
+  },
+  "jnotify": {
+    "name": "jnotify",
+    "language": "perl",
+    "version": "1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/jnotify.pl",
+    "md5sum": "cef285af02cb9418bfa11085318bb74e",
+    "sha256": "0pmsb4pcz4jivhy5cyllpnvdank48a3k7yw0xsj22s9zmd1aks93"
+  },
+  "highlightxmpp": {
+    "name": "highlightxmpp",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/highlightxmpp.py",
+    "md5sum": "992f3887ae4f9e4b2ce9f367dc220aaa",
+    "sha256": "131gc3g61aw2qvjhcwdhabsi5p11x0h032cfsgb09w3i24mhj9l6"
+  },
+  "myuptime": {
+    "name": "myuptime",
+    "language": "ruby",
+    "version": "0.2",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/myuptime.rb",
+    "md5sum": "5d24e438aca6c33b0452178ae29397d3",
+    "sha256": "00z8nzlmgc8d9k3nchqpyn7dmmn6g2sc0vvq2plijhmd6g4gq2wj"
+  },
+  "spotify": {
+    "name": "spotify",
+    "language": "python",
+    "version": "0.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/spotify.py",
+    "md5sum": "06a222962de59f49679e59f4a3c20612",
+    "sha256": "1q45v5g8x03gvvsnaczky6mb1bdix1b8ki06pcga5hznqw4h7vm8"
+  },
+  "hlpvitem": {
+    "name": "hlpvitem",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/hlpvitem.py",
+    "md5sum": "5db7151e261f3bfed64d4ef97e471fee",
+    "sha256": "0a3ljfqdlxacsd4zp3482jx3ic118vp9z74xsjlhjb603aicgyqn"
+  },
+  "rhythmbox": {
+    "name": "rhythmbox",
+    "language": "perl",
+    "version": "0.5",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/rhythmbox.pl",
+    "md5sum": "d65d96e9539cc8f75886d749923bfcb8",
+    "sha256": "09xjn1cx8b1xi1ixhvlikyiznr4wrgn6dn68lb436bwhf62y8kkm"
+  },
+  "gnotify": {
+    "name": "gnotify",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/gnotify.py",
+    "md5sum": "fbff726130c0d607477e3b4191cca14d",
+    "sha256": "1g42rlz13cj92zynz3f29i9alhc5mvydlg06i53nwf9g27f8cd9m"
+  },
+  "amarok2": {
+    "name": "amarok2",
+    "language": "perl",
+    "version": "0.7",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/amarok2.pl",
+    "md5sum": "13981f2269c64e8c966b766ef9a4b795",
+    "sha256": "10hswaxxw47via5h7a670kj9rz4pb20yayixjm2nhl1jxl42klq3"
+  },
+  "volumeter": {
+    "name": "volumeter",
+    "language": "perl",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/volumeter.pl",
+    "md5sum": "901bf6311ec450d6aea16b9057aa5451",
+    "sha256": "1gjsyz3jdsq84c0zhmg8d4xn8x6l21qlscyfc0viahpb71r09w5d"
+  },
+  "kikoo": {
+    "name": "kikoo",
+    "language": "perl",
+    "version": "0.2",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/kikoo.pl",
+    "md5sum": "9f002f14309c5a7cae39658f5b9ba1a6",
+    "sha256": "1yl95z6wgkpw4q73pbfwgf1c6yhza0wmx2pk6kxa3dw8iysgbpxm"
+  },
+  "bandwidth": {
+    "name": "bandwidth",
+    "language": "python",
+    "version": "1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/bandwidth.py",
+    "md5sum": "f84aa0662ac152ab134165e4adc52b47",
+    "sha256": "1qxakxkw7jashfcyxgl8yc96jgydvk091rppr6mj0x4xazd35y1p"
+  },
+  "translate": {
+    "name": "translate",
+    "language": "python",
+    "version": "0.7",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/translate.py",
+    "md5sum": "5174cac603daa431b0b0f47821787c53",
+    "sha256": "17j1phjaaiq1c4k9h7hjd6d9mbgjlrsg0r2pqaz741bdpf6mqqwy"
+  },
+  "stats_bar": {
+    "name": "stats_bar",
+    "language": "perl",
+    "version": "1.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/stats_bar.pl",
+    "md5sum": "050430cebf3d01074f578e48efefc540",
+    "sha256": "0kkdis52vnm26nbnf0jz1cqzc5fj8g2jykk4sfrc6c73g5bf7h8r"
+  },
+  "nickregain": {
+    "name": "nickregain",
+    "language": "perl",
+    "version": "1.1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/nickregain.pl",
+    "md5sum": "26e803f64cb55aa838fdd6813e1773a2",
+    "sha256": "0m5hdlzyl1xh61zh87lhjjpz6kdgjm3h651s5mlmhs8n2ff3mnjw"
+  },
+  "text_replace": {
+    "name": "text_replace",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/text_replace.py",
+    "md5sum": "c7a160f42945053e93ea94ef2b454ccd",
+    "sha256": "05wxgbxczvn21p8l9d9n9jy4hx88nfz4ks7x0yy0rjbnzhpqdq4k"
+  },
+  "autojoin_on_invite": {
+    "name": "autojoin_on_invite",
+    "language": "python",
+    "version": "0.7",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/autojoin_on_invite.py",
+    "md5sum": "faec966eb99f1a7efb0698afe58b5bf5",
+    "sha256": "0axy8vq4dx1z3s124h4cmr4zibdr8blvs5l483gj6g51nd6gv0zv"
+  },
+  "chanop": {
+    "name": "chanop",
+    "language": "python",
+    "version": "0.3.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/chanop.py",
+    "md5sum": "aff53694b3f926ac19771b15a7580f93",
+    "sha256": "0d84dcsbywxh5cdbq9bbgr7afjm9mm99lhz8fhl8fcnhdji8mr6p"
+  },
+  "dellog": {
+    "name": "dellog",
+    "language": "perl",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/dellog.pl",
+    "md5sum": "e41f2017734041f60ff4dc27019b5d31",
+    "sha256": "184kmzcy75khk5ssmrljdv554d9y8rwb27zgrgigi2pabnpz34i8"
+  },
+  "imap_status": {
+    "name": "imap_status",
+    "language": "python",
+    "version": "0.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/imap_status.py",
+    "md5sum": "3521a414b66ecd9688cc870cb7bbaf4b",
+    "sha256": "08ha94a158m5wsaxikzch11idg30097kh2zbhlv6k5zvx0zklv0z"
+  },
+  "yaaa": {
+    "name": "yaaa",
+    "language": "perl",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/yaaa.pl",
+    "md5sum": "18f074de3b2dd81a31a83373593dce29",
+    "sha256": "0hhl2h5l4qnwrqs8rnpvbndnxbbn0j0cz9l5xh9i32s2781nbgrj"
+  },
+  "screen_away": {
+    "name": "screen_away",
+    "language": "python",
+    "version": "0.15",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/screen_away.py",
+    "md5sum": "3ef3296a4acfe9acca546177f25b9616",
+    "sha256": "0phf1dvmjvmzvz3m13smf1y9c4cvp7hxfhv2br97amgl9a58b7fy"
+  },
+  "infolist": {
+    "name": "infolist",
+    "language": "python",
+    "version": "0.7",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/infolist.py",
+    "md5sum": "5d669bd1f0ae770baf843921537f4034",
+    "sha256": "11y35xhl2daz8zcnxbgj4pnspblsi80rb1djfdamclv9sqzwid3c"
+  },
+  "buffer_autoclose": {
+    "name": "buffer_autoclose",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/buffer_autoclose.py",
+    "md5sum": "dcee22ec2bfb2bf6557742e597cdee76",
+    "sha256": "14yicdpg7v1anz0lv2p7bfjv1h045r9d9yqa4jc9nc70bi5rxlhs"
+  },
+  "hotlist2extern": {
+    "name": "hotlist2extern",
+    "language": "perl",
+    "version": "0.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/hotlist2extern.pl",
+    "md5sum": "400452de00ccb705248f0a842de718b1",
+    "sha256": "16ffjlj0jvr588a0sdgrh7n03972i7hdvs3lhi2q0jpmsg3w4z2z"
+  },
+  "buddylist": {
+    "name": "buddylist",
+    "language": "perl",
+    "version": "1.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/buddylist.pl",
+    "md5sum": "2dea7d75027a1bfcac7ef956af572b8e",
+    "sha256": "126068b0j8i2ryynzm4w46fmfx9khg4i4v2m1md8nwawdivzw249"
+  },
+  "announce_url_title": {
+    "name": "announce_url_title",
+    "language": "python",
+    "version": "18",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/announce_url_title.py",
+    "md5sum": "4cf764c5761509ee692156ca2b5f0e22",
+    "sha256": "0hnqy9s5cz6la70x7llvmf527d513zy6vb0k2ivlb0hhfssdk3ya"
+  },
+  "rnotify": {
+    "name": "rnotify",
+    "language": "tcl",
+    "version": "1.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/rnotify.tcl",
+    "md5sum": "1f862e85ef52e0ef7daac14b622159e9",
+    "sha256": "156fr4dbnyv1nwyzx79k7cpjmcxxw65f8fhmgyrs1zmai7jy37mb"
+  },
+  "strmon": {
+    "name": "strmon",
+    "language": "perl",
+    "version": "0.5.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/strmon.pl",
+    "md5sum": "91275b07bab0f6134d5b0bd092b91421",
+    "sha256": "0pqsjyzgq1z81mldryajaljhpk1ly7gcyilm5cg1j2nb8v60wp8r"
+  },
+  "query_blocker": {
+    "name": "query_blocker",
+    "language": "perl",
+    "version": "1.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/query_blocker.pl",
+    "md5sum": "e76019433c249de4d8c46756ef7ec7dd",
+    "sha256": "03k64mkg8s4mzls0bcv3ff2lnfigp2b065d9w6qwpkfbvxny593k"
+  },
+  "nameday": {
+    "name": "nameday",
+    "language": "python",
+    "version": "1.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/nameday.py",
+    "md5sum": "a72d96975a0b5ac7d978e15078f11298",
+    "sha256": "0rr2salaf4kkzdrig6xhqy0sxqf5rnsgxm289l51szh9pmqd0rk0"
+  },
+  "shortenurl": {
+    "name": "shortenurl",
+    "language": "python",
+    "version": "0.6.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/shortenurl.py",
+    "md5sum": "d502d188707fe3edda5e5e2fcff5f7ca",
+    "sha256": "0rkwx0shn7bwf0hzhvq78fhxz7lb6wkbirf6yrph1iny4fy3vhr3"
+  },
+  "uppercase": {
+    "name": "uppercase",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/uppercase.py",
+    "md5sum": "3b0ce009aed656a1133edf4e5042f284",
+    "sha256": "13ykjyp7mqnf7ihqlhv87kkynvm9r7xkpj54zkavbihaq4ar12nf"
+  },
+  "upside_down": {
+    "name": "upside_down",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/upside_down.py",
+    "md5sum": "76ae6a1bf6f5117aac664773a4fcca24",
+    "sha256": "0ipwzsdci8p3mckn2mi2vb4f7z0b7ar9swzpnxdfzxpyagzns2w4"
+  },
+  "newsbar": {
+    "name": "newsbar",
+    "language": "perl",
+    "version": "0.18",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/newsbar.pl",
+    "md5sum": "f17be3674e32d51061b9f0ceee1610a4",
+    "sha256": "1zjqd3cvirrm88xgv1bandp2g8j6mkibbrcmbll05rm8r11mwyds"
+  },
+  "filter_ext": {
+    "name": "filter_ext",
+    "language": "perl",
+    "version": "0.04",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/filter_ext.pl",
+    "md5sum": "540f175a8836a3f0d8653754d6d4a21f",
+    "sha256": "0ghbnm6a2jr52wdj34zxqz47q7xvy0cp56xnpf8api9s0q0v7ahw"
+  },
+  "foo_spam": {
+    "name": "foo_spam",
+    "language": "perl",
+    "version": "0.6.1",
+    "license": "ISC",
+    "url": "https://weechat.org/files/scripts/foo_spam.pl",
+    "md5sum": "8478bb9716a0e8ec9eb7e7bd23870ad1",
+    "sha256": "0klcqjhy7v774c4r53h6md73gsndyizsnvr41sa8kprcrrrmaly7"
+  },
+  "completion": {
+    "name": "completion",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/completion.py",
+    "md5sum": "3efd02ab69678c74c33dc5bfbcd85b1b",
+    "sha256": "013n99l2sfn8vic8zqgz26w3xs8sr930c3y036fzjv84q557cy7i"
+  },
+  "alternatetz": {
+    "name": "alternatetz",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/alternatetz.py",
+    "md5sum": "092afc64ba91a091f1049939472fec17",
+    "sha256": "0nk1jkd4ai4ypyxkpm0px9mr7nqy1xfh1drzb23bkbnkplbymj07"
+  },
+  "weerock": {
+    "name": "weerock",
+    "language": "perl",
+    "version": "0.3",
+    "license": "Apache2.0",
+    "url": "https://weechat.org/files/scripts/weerock.pl",
+    "md5sum": "eae8eb541aae7e8ef351e8660eaa8972",
+    "sha256": "0lg1q9lya6qzkgxqvbw0wijipwinjnv3szkvpxig8q2cynfslf4a"
+  },
+  "mplex": {
+    "name": "mplex",
+    "language": "perl",
+    "version": "0.03",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/mplex.pl",
+    "md5sum": "166cc81f2c7d059577d87c127f06a255",
+    "sha256": "1adkbgbyg8pzrmvwag7yvr2gsv07a8yg8xk7y1wafjxyc9figv86"
+  },
+  "snarl_net_notify": {
+    "name": "snarl_net_notify",
+    "language": "perl",
+    "version": "0.6.1",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/snarl_net_notify.pl",
+    "md5sum": "7e4f4d7868426e119e8a1cc57b9f0706",
+    "sha256": "0dyc91ym5iinf51c59h31fpl574qvngxdikc8fxfjzl5lls49amc"
+  },
+  "dcc_antispam": {
+    "name": "dcc_antispam",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/dcc_antispam.py",
+    "md5sum": "abd685882edd579b1738d737a03d6477",
+    "sha256": "14ibvxwlsqzn57n7n8q1rd7cmlk4wfci1qw5i37q349qkrrjb70q"
+  },
+  "auto_away": {
+    "name": "auto_away",
+    "language": "python",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/auto_away.py",
+    "md5sum": "c0270531cdd4a01e635ad1c02ef3db12",
+    "sha256": "02my55fz9cid3zhnfdn0xjjf3lw5cmi3gw3z3sm54yif0h77jwbn"
+  },
+  "im_rename": {
+    "name": "im_rename",
+    "language": "python",
+    "version": "1.2",
+    "license": "Public_domain",
+    "url": "https://weechat.org/files/scripts/im_rename.py",
+    "md5sum": "10f3722352b3016bea3c7c1f77b0b2d6",
+    "sha256": "1kk9dzw1byipiy7l7saqikq09skgcng82xa58kwabgxs8hz9mbkx"
+  },
+  "beat": {
+    "name": "beat",
+    "language": "perl",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/beat.pl",
+    "md5sum": "226bd26226dcab08032f8c6ce89110a6",
+    "sha256": "0iyvghn8mxfa1spi0260897181n53rh57cbb6l8llagmxm1yijzv"
+  },
+  "inotify": {
+    "name": "inotify",
+    "language": "python",
+    "version": "0.1.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/inotify.py",
+    "md5sum": "3cc7c24cf0c21523539d21cae293587b",
+    "sha256": "0wzlbaw2w4z35r8f7v9lr88qgs6n0bwbbzyd0pzly79mz6n1mlhz"
+  },
+  "typing_counter": {
+    "name": "typing_counter",
+    "language": "python",
+    "version": "1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/typing_counter.py",
+    "md5sum": "e862002360629cc1d167edf277ea33f0",
+    "sha256": "0pbcxfm8940zhlbf2bl2sn574wz21m9rdvc1kbi7qkwzcrjxz8gf"
+  },
+  "colorize_nicks": {
+    "name": "colorize_nicks",
+    "language": "python",
+    "version": "26",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/colorize_nicks.py",
+    "md5sum": "51db486f1690e4affe02574d999f555c",
+    "sha256": "1ldk6q4yhwgf1b8iizr971vqd9af6cz7f3krd3xw99wd1kjqqbx5"
+  },
+  "away_action": {
+    "name": "away_action",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/away_action.py",
+    "md5sum": "0d5849e2e55eac121c5ce54b0d8611b6",
+    "sha256": "13ch0a0nfw928r5j53wjlz53y8q18djv82i9csq12c1fb0sz0s66"
+  },
+  "ubus": {
+    "name": "ubus",
+    "language": "perl",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/ubus.pl",
+    "md5sum": "2270bde5886fd18df66a1e40d7354e4c",
+    "sha256": "0860w348wb3yk9xigjpdn1f9s85miv4x5v8f0lbyncpa5h6jybf0"
+  },
+  "buffer_autoset": {
+    "name": "buffer_autoset",
+    "language": "python",
+    "version": "1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/buffer_autoset.py",
+    "md5sum": "f3cbaef5d508891b05509c2cd137949f",
+    "sha256": "02sxywb4q1h48lphv970zhq6y5xiyabljl79q64cqqb11v42d4dn"
+  },
+  "postpone": {
+    "name": "postpone",
+    "language": "python",
+    "version": "0.2.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/postpone.py",
+    "md5sum": "b2d160026703ce09d39145fff1b0648c",
+    "sha256": "03d0qgv2x9gihhj982zgx74cnmawkh852lbpq446ixmigqpm9sg6"
+  },
+  "bitlbee_typing_notice": {
+    "name": "bitlbee_typing_notice",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/bitlbee_typing_notice.py",
+    "md5sum": "77804ee1a462fe8dc20eb23c5972496d",
+    "sha256": "19dr3pzfaiyy9hnwfjx7wfbqfzplljr262fcmw97xgpcfh07jdvq"
+  },
+  "minbif_typing_notice": {
+    "name": "minbif_typing_notice",
+    "language": "ruby",
+    "version": "1.0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/minbif_typing_notice.rb",
+    "md5sum": "16171150659e00a279591c1f6b0e80d8",
+    "sha256": "06x8k6wir2bs92wmxa9kfnyz60cpw1h1ikzc7y887j1pffqvnpqv"
+  },
+  "colorize_lines": {
+    "name": "colorize_lines",
+    "language": "perl",
+    "version": "3.6",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/colorize_lines.pl",
+    "md5sum": "a8328f936b26e91e7049b7d949a8108d",
+    "sha256": "17iabgsc73cz0zpbfzxw2dhpiawsgag7wmcl4hcwk1m6fb88li3n"
+  },
+  "prism": {
+    "name": "prism",
+    "language": "python",
+    "version": "0.2.11",
+    "license": "WTFPL",
+    "url": "https://weechat.org/files/scripts/prism.py",
+    "md5sum": "825bd6719f90483809918cde90556677",
+    "sha256": "1lwvw4imi5gb8yfccmwfmg1aqpihllrh5vca64fr2493qhrswh7v"
+  },
+  "curiousignore": {
+    "name": "curiousignore",
+    "language": "perl",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/curiousignore.pl",
+    "md5sum": "3d1a6ca3251fad068aa215db799c0e05",
+    "sha256": "00slyjcvq2a5wbbfyrawp4m6b6vbbzg9d4qrl5s11qn35bwwyrkz"
+  },
+  "chanstat": {
+    "name": "chanstat",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/chanstat.py",
+    "md5sum": "eb2d78241084980671de7c125f05f546",
+    "sha256": "0j8wprbb1ahh4r4l0gbpx6kfxj49mgqnw3gz0420pa7z6njl1918"
+  },
+  "lastfm": {
+    "name": "lastfm",
+    "language": "python",
+    "version": "0.7",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/lastfm.py",
+    "md5sum": "46c617cb893ba9c5f514ca57a3f9d50e",
+    "sha256": "1jn0rbbdm7lkbn2qqzaiiyma9lfwhfh9c9cd4fl8ci95mxmxajkz"
+  },
+  "notifo_notify": {
+    "name": "notifo_notify",
+    "language": "python",
+    "version": "1.0",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/notifo_notify.py",
+    "md5sum": "8579cfabf2f1de1da16fc4f777c8809b",
+    "sha256": "0231rpkjwnx3mgl8yjd6hw5zm6y8arldgb641gqz5hkdffak9d84"
+  },
+  "cron": {
+    "name": "cron",
+    "language": "python",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/cron.py",
+    "md5sum": "5bdc0fdfc79ae4674ecf482e1812e378",
+    "sha256": "13cci893q1r9438v6vswady4xlka8wjfaj1qnnc2rj8wi4z9jgj9"
+  },
+  "ichatts": {
+    "name": "ichatts",
+    "language": "python",
+    "version": "1.0",
+    "license": "BSD-3c",
+    "url": "https://weechat.org/files/scripts/ichatts.py",
+    "md5sum": "e64a68f4dc9df0f77f3cb9a8ae4241fa",
+    "sha256": "10hyjgadr6k7jw9wmlwk8wx6z73kwdgkxggxrrglsazb02yxsb2i"
+  },
+  "zerotab": {
+    "name": "zerotab",
+    "language": "python",
+    "version": "1.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/zerotab.py",
+    "md5sum": "df9941ea62e82be0fa937df0d000a60c",
+    "sha256": "1qp3h8kd35m8ywskizpgcs53kdj7y1qm0y9kcy9wjvhny0g35p4y"
+  },
+  "jabber": {
+    "name": "jabber",
+    "language": "python",
+    "version": "1.6",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/jabber.py",
+    "md5sum": "2a812eac6037012151db801c4440c899",
+    "sha256": "1lvvn2f8wgvflbrsj32zdmivbnbdyk4icf0x0vc5wms1bjj3i92i"
+  },
+  "wmiibar": {
+    "name": "wmiibar",
+    "language": "perl",
+    "version": "0.3",
+    "license": "Apache2.0",
+    "url": "https://weechat.org/files/scripts/wmiibar.pl",
+    "md5sum": "918ab2a80d92804f2aa2779c791b30dd",
+    "sha256": "06j9rjz0aibm4fdrph9k670l8klmzyvsl9a4kbavcz0590n26z8p"
+  },
+  "weefish": {
+    "name": "weefish",
+    "language": "ruby",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weefish.rb",
+    "md5sum": "70c312af22ce80e2ea5e0789125c5191",
+    "sha256": "0qli3idbvzv63kp7yzxvpgb1zbqiwp7i38b4y4d6i5mr6p3b35pi"
+  },
+  "lnotify": {
+    "name": "lnotify",
+    "language": "python",
+    "version": "0.3.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/lnotify.py",
+    "md5sum": "a2c57f8bb8c56205d544430441fe07aa",
+    "sha256": "1rr2p3xdjgkv8644xwn9q8nxjgik2apykifyxn7cp61mc80v33ps"
+  },
+  "windicate": {
+    "name": "windicate",
+    "language": "python",
+    "version": "0.0.4",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/windicate.py",
+    "md5sum": "c67f90fdcc6b125ba3b3f8fbaf4b480b",
+    "sha256": "0fan1amcwbdb30whixb9apmyn1wvvc6p7m75d5222r7bjvwk6w7j"
+  },
+  "xosdnotify": {
+    "name": "xosdnotify",
+    "language": "tcl",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/xosdnotify.tcl",
+    "md5sum": "d6e8a77249e46c8c350a7a5d22f5126f",
+    "sha256": "18p29kqi7xqrmkxgpv73cdbhki9rn11mjcrzsmxyyw57r4ncfg2p"
+  },
+  "text_effects": {
+    "name": "text_effects",
+    "language": "lua",
+    "version": "1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/text_effects.lua",
+    "md5sum": "a723c838050b7037dc3ca805262aa132",
+    "sha256": "14cv3hss1sqjqk4cz0jkwgnh8qxg94sybc59z5yp22if51s7xnm9"
+  },
+  "sensors": {
+    "name": "sensors",
+    "language": "python",
+    "version": "1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/sensors.py",
+    "md5sum": "2ddccfbc7a6a2ae33371746a493d697d",
+    "sha256": "00y0b0ryh846hhrlbdibbvxhi4qwkhlhwqcv6m3g6g3i3pb909rz"
+  },
+  "snotify": {
+    "name": "snotify",
+    "language": "python",
+    "version": "0.1.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/snotify.py",
+    "md5sum": "d9010d3f73bdabfe3c84e10439379f06",
+    "sha256": "0pc5phvfz6aqm01nyqjwa3rahl8g0ikfzjpw7jzf4lkgk6svivmy"
+  },
+  "update_notifier": {
+    "name": "update_notifier",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/update_notifier.py",
+    "md5sum": "a206e493839c91332707b4a852b092ce",
+    "sha256": "0win7zi7iwfjpsx9v99fylvfvxy1555c3bx6skk5r95bppy0g3sh"
+  },
+  "confversion": {
+    "name": "confversion",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/confversion.py",
+    "md5sum": "dd753048c4eea1c2ed93f9f6c1ff15ad",
+    "sha256": "0vw6sg1krxad404k4x0rlv29515zjymphjk983mj6v2a7rz79xqf"
+  },
+  "thinklight_blink": {
+    "name": "thinklight_blink",
+    "language": "perl",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/thinklight_blink.pl",
+    "md5sum": "e24b719a39c2a6c9935b5b9a8d37556d",
+    "sha256": "0pv7y9vwad5bzpvbz192dw7bhbjr3h5335xp72c53adnr8af0rmx"
+  },
+  "pybuffer": {
+    "name": "pybuffer",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/pybuffer.py",
+    "md5sum": "e5ef3e69d6049e4e3cc178535cfda1b7",
+    "sha256": "0gc2iaqlwz5cslpyq7jmlfqv8whp07b1hjjpgrm6c9gzl11d37y2"
+  },
+  "msg_command": {
+    "name": "msg_command",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/msg_command.py",
+    "md5sum": "79fb79b5d30c9a450ab1b83f119fd575",
+    "sha256": "1mdpdlbpmsnjgsk5jcsvp0rpg3hx7xwrqkaysvv0cwq9clc6s3yb"
+  },
+  "tailer": {
+    "name": "tailer",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/tailer.py",
+    "md5sum": "da73083afacb9ce3726848468fb3e42f",
+    "sha256": "0a8i2pgnr1mf712ps3hbpaj6g3hfwi59y4cbrm2sp149qb6p3q43"
+  },
+  "whatismyip": {
+    "name": "whatismyip",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/whatismyip.py",
+    "md5sum": "ceb5076e771861a9d0300dd46d653ae9",
+    "sha256": "1jc0x5vwqfkv6k5gy3596jxf2nrzgyzpl536ia4mwkxs4cwmcb6x"
+  },
+  "xfer_setip": {
+    "name": "xfer_setip",
+    "language": "python",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/xfer_setip.py",
+    "md5sum": "12036699d5fd2c25ab7e82ff01a7ee86",
+    "sha256": "18cy51qz3xqq8bm6lby5vsmw5l2l3gva3ach0nb4gjg7skqxys5m"
+  },
+  "automode": {
+    "name": "automode",
+    "language": "python",
+    "version": "0.1.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/automode.py",
+    "md5sum": "f3b1156a017f4c8a651082aefca153f1",
+    "sha256": "0nlslql3knhas7wnlq6frbmihqswqif31rp9jg9vhqysjz1jcl9n"
+  },
+  "pop3_mail": {
+    "name": "pop3_mail",
+    "language": "perl",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/pop3_mail.pl",
+    "md5sum": "bd1260c3985f42c12cdeef75e9094f24",
+    "sha256": "06c2iprw6n7p15nlljw5gc36qgc4kvlzf3q49q1la47m98jfjqw3"
+  },
+  "bashorg": {
+    "name": "bashorg",
+    "language": "perl",
+    "version": "0.2",
+    "license": "Public_domain",
+    "url": "https://weechat.org/files/scripts/bashorg.pl",
+    "md5sum": "0becee60b850f59915843c549b1c383c",
+    "sha256": "18yim4cginl5jsl6jraj3fvjyrzlzncigrwrvr9wz5w42g9pr3wr"
+  },
+  "expand_url": {
+    "name": "expand_url",
+    "language": "perl",
+    "version": "0.7",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/expand_url.pl",
+    "md5sum": "38e92619e129ca9deb4dbf745e6cc356",
+    "sha256": "1w34krmwd9yfv1ksrzwyaa41hw2748ahjz2qvm9ij7ra9m9mwk52"
+  },
+  "leet": {
+    "name": "leet",
+    "language": "python",
+    "version": "0.1",
+    "license": "BSD-3c",
+    "url": "https://weechat.org/files/scripts/leet.py",
+    "md5sum": "d8fbde06940265e61eaf12e0a585bb44",
+    "sha256": "1yp2acblj4z5pxvhipkas96p6kkyn6lprsmg7r1lc0nmnx71r2bi"
+  },
+  "queue": {
+    "name": "queue",
+    "language": "python",
+    "version": "0.4.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/queue.py",
+    "md5sum": "f393f26a9373ccb05f128725caeb3513",
+    "sha256": "1c1xsixbw6am4y5xihzn4diyhspkmbdxcybpfz8pw5dw9lss523s"
+  },
+  "amqp_notify": {
+    "name": "amqp_notify",
+    "language": "ruby",
+    "version": "0.1",
+    "license": "BSD-3c",
+    "url": "https://weechat.org/files/scripts/amqp_notify.rb",
+    "md5sum": "22589f85a9411ee8c223751bd6aad8b7",
+    "sha256": "0610x90y778nz9v3kc2k615ijsbrjwml2dh6hzni940x93sfjsr8"
+  },
+  "weather": {
+    "name": "weather",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weather.py",
+    "md5sum": "3f73e0a1de7292cd9bd9402b20a7c5b0",
+    "sha256": "0i9w5dh176k5nvgzb9w02by4sadxgmcz18901dlk7yqvfsqb4hnh"
+  },
+  "topicdiff": {
+    "name": "topicdiff",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/topicdiff.py",
+    "md5sum": "d654c94e6dc7c31c394edf826a6ed538",
+    "sha256": "11ilgq146y3hcm1ynjzf9z2y8a9apxy2v2i0nvh9lkkp5jh0jvrj"
+  },
+  "clemenshow": {
+    "name": "clemenshow",
+    "language": "python",
+    "version": "1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/clemenshow.py",
+    "md5sum": "a0fdcce6bf70d52ab39f69d0fe6c771e",
+    "sha256": "19i98bkkags3n505c5fjihyv9v4rir7xxmkljxwfqk7jadlpc5sk"
+  },
+  "xmms2": {
+    "name": "xmms2",
+    "language": "ruby",
+    "version": "0.2",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/xmms2.rb",
+    "md5sum": "b9287f57d1a26da20951156c191357c5",
+    "sha256": "07753kbs9qz9igclx5p8a9ks93cka4ipg5sn0zn3nkzsblnirr9c"
+  },
+  "purgelogs": {
+    "name": "purgelogs",
+    "language": "python",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/purgelogs.py",
+    "md5sum": "99ca59dd69a888d4fe37d6af78cadc52",
+    "sha256": "0a98ab27x182v1manzl7wk86ji60x9b0gmmg0s0s8l4zk9p6bsph"
+  },
+  "correction_completion": {
+    "name": "correction_completion",
+    "language": "python",
+    "version": "0.3.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/correction_completion.py",
+    "md5sum": "fdd65e936f4d85d7c19f438dfc1ed47d",
+    "sha256": "1xnf4mdh7792r5bdnzwg8nvxhigga6bd0kdyvv0xng64ambsfyy5"
+  },
+  "hilites": {
+    "name": "hilites",
+    "language": "ruby",
+    "version": "0.2",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/hilites.rb",
+    "md5sum": "80aea4cebaf709d5b58e53d8af16ef20",
+    "sha256": "1mzg0byzwpnbff3g9jfwcg6s2ldnv80vcd310if4yxzckb8v1zwa"
+  },
+  "menu": {
+    "name": "menu",
+    "language": "perl",
+    "version": "0.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/menu.pl",
+    "md5sum": "91d8fbff9723f86ad7672aaca4d37b32",
+    "sha256": "00b6fmnmqmajz4qp736zwdc179al9qj2jddrcza7ddgx80p7pf3k"
+  },
+  "mpc": {
+    "name": "mpc",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/mpc.py",
+    "md5sum": "9206b96623338f8c4031584b6afff285",
+    "sha256": "0f07rq1lvg5rf5x3x2lf1wsh72khxf4nky8nnh5w5lln84zrv4fg"
+  },
+  "fileaway": {
+    "name": "fileaway",
+    "language": "python",
+    "version": "1.0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/fileaway.py",
+    "md5sum": "2ec5379ea8c28942be82ebc550ef0573",
+    "sha256": "1g9k53v099faw2j0mc8br2m36fsji3fkcb0vrfdnwfnjm9lbg0q1"
+  },
+  "input_lock": {
+    "name": "input_lock",
+    "language": "ruby",
+    "version": "0.1",
+    "license": "BSD-3c",
+    "url": "https://weechat.org/files/scripts/input_lock.rb",
+    "md5sum": "d8d9e1cc6dcc01cb9b911ef1cc463e95",
+    "sha256": "0qr8r8mga1f6q7q12ib1m1qhaamm52bgvq5p5h53ylkx4yap79xz"
+  },
+  "sort_buffers": {
+    "name": "sort_buffers",
+    "language": "perl",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/sort_buffers.pl",
+    "md5sum": "c244dbb382d163e36daacef115c106cc",
+    "sha256": "1xn08wg0rs4bcspxmbp37gvfxyzjr47yckb5zydcirp97abq8hfp"
+  },
+  "seeks": {
+    "name": "seeks",
+    "language": "perl",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/seeks.pl",
+    "md5sum": "4a8627b2931fbb37fbf0bcb2d75281f5",
+    "sha256": "1aijk43pjyq16606vx082snsnf4wannsrrbzpax80jrmvs69nixg"
+  },
+  "cmd_help": {
+    "name": "cmd_help",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/cmd_help.py",
+    "md5sum": "7b6e43945d6b851dc8f154563c224b60",
+    "sha256": "0p8r79gydvd14szs86ixrvlzxvsykgnz0ya19bpwidwf5xy138gk"
+  },
+  "listsort": {
+    "name": "listsort",
+    "language": "perl",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/listsort.pl",
+    "md5sum": "604197a4bc4a3153867f690dbf3bb057",
+    "sha256": "000bjsr4ad7qlcppdb2i0sbnz35786fn2dr1r305rl1kpg0lsrj8"
+  },
+  "autoconnect": {
+    "name": "autoconnect",
+    "language": "python",
+    "version": "0.3.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/autoconnect.py",
+    "md5sum": "f861ac275a55747220b2277fa4458a86",
+    "sha256": "0vgjvfhqqq5sdqdfqvv7n33q5pqpf2sgfdkzcs2a50nmcjsbk1wx"
+  },
+  "urlbuf": {
+    "name": "urlbuf",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/urlbuf.py",
+    "md5sum": "ae4e73dac3dacd7da738aa7ffe20d088",
+    "sha256": "1jdskprb3kzai53xcy1ybaymnxxl53w42fgsrdabj1zlbpvk6il9"
+  },
+  "sysinfo": {
+    "name": "sysinfo",
+    "language": "perl",
+    "version": "1.0",
+    "license": "BSD-2c",
+    "url": "https://weechat.org/files/scripts/sysinfo.pl",
+    "md5sum": "7f264e02222dc04339a6aaa38d6558ea",
+    "sha256": "1vxliiwvzbyik74qc3wjxpal89ksls90i13vpbzrlr61n7x79mpn"
+  },
+  "spotify_nowplaying": {
+    "name": "spotify_nowplaying",
+    "language": "python",
+    "version": "0.1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/spotify_nowplaying.py",
+    "md5sum": "b8f763e795b8ad0af6e0ce201ebd2837",
+    "sha256": "0wiiisjm8sk2gralin3xxdk2b5xdccp7hg54g3rcrcapih4gq20d"
+  },
+  "kickban": {
+    "name": "kickban",
+    "language": "perl",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/kickban.pl",
+    "md5sum": "fb9b504c04eaea79f143f05fbc280a22",
+    "sha256": "0l4lv8i8sf397149f77kha9n02z03v3arxpv3la8mg6zrni8ah1j"
+  },
+  "perlexec": {
+    "name": "perlexec",
+    "language": "perl",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/perlexec.pl",
+    "md5sum": "72b22990f1dbb357fd6a32a24ecb4d83",
+    "sha256": "1sbnm70djsa69zx36v85sx9ip7mdsbk2fay1x0y30n800n76x9jk"
+  },
+  "ragefaces": {
+    "name": "ragefaces",
+    "language": "perl",
+    "version": "1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/ragefaces.pl",
+    "md5sum": "71021515e395437d3b66b5f3cff6172a",
+    "sha256": "08lrwnbl3h5kqr1i7785c3f5v41zycmdmiwjq8mw2d6llfdqgvnk"
+  },
+  "mpris_np": {
+    "name": "mpris_np",
+    "language": "python",
+    "version": "0.3",
+    "license": "BSD-2c",
+    "url": "https://weechat.org/files/scripts/mpris_np.py",
+    "md5sum": "38d41b65583f8ff43816b8e761487613",
+    "sha256": "0q3yd882lnsllackirzcxfqn7dh9h24m691v2rbfvq3in035z385"
+  },
+  "chanpriority": {
+    "name": "chanpriority",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/chanpriority.py",
+    "md5sum": "9aae6c1b07a8c73712182d87face6bbb",
+    "sha256": "1rcvpg3giidr3rng1zhgrshhdy429dfix6wpn6lm9jmixa7jnncx"
+  },
+  "floodit": {
+    "name": "floodit",
+    "language": "python",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/floodit.py",
+    "md5sum": "38bce716b6564724a8a69caad2fe5c35",
+    "sha256": "1sklj1jvav2d4v7cvhhmfihfbnrql3bqrw150nk5fdf35b59g2x1"
+  },
+  "notifo": {
+    "name": "notifo",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/notifo.py",
+    "md5sum": "19c098e63bc9e1b778feb8f45b85c38e",
+    "sha256": "1m85cqj37sh0pirbbqc9w64rzbb5ssvpg8y0pd98jz80lkm8i0c2"
+  },
+  "unset_unused": {
+    "name": "unset_unused",
+    "language": "perl",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/unset_unused.pl",
+    "md5sum": "f15a227ffff876e134ff7fccf9a29281",
+    "sha256": "00ml58gia9rs0wbgkaii1n809hxw4f2y4il8g4cfci1f64p19jzn"
+  },
+  "ncmpcpp": {
+    "name": "ncmpcpp",
+    "language": "perl",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/ncmpcpp.pl",
+    "md5sum": "fdd2e1b9c2f664faaa8ddd0d166af94e",
+    "sha256": "1ziv28kz1fx7cfhc65qq8k74n74idnj859zvrdgfb08fiiygwynw"
+  },
+  "arespond": {
+    "name": "arespond",
+    "language": "python",
+    "version": "0.1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/arespond.py",
+    "md5sum": "46726e32241b2e101fae28974fc4322a",
+    "sha256": "1zk20ny9icqzlbj2v76d2sa46k70m5al86qbpvs8w97lxjmhnff1"
+  },
+  "weenetsoul": {
+    "name": "weenetsoul",
+    "language": "python",
+    "version": "1.3",
+    "license": "WTFPL",
+    "url": "https://weechat.org/files/scripts/weenetsoul.py",
+    "md5sum": "892b5ea2c2c620c0465f4da206442fa7",
+    "sha256": "04rhxxx1iqr0si0s1qyazq63y57bn43qv971l55gvx2aic1lx3zh"
+  },
+  "topicsed": {
+    "name": "topicsed",
+    "language": "perl",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/topicsed.pl",
+    "md5sum": "1927a8f78fe90aaa233aa49b7599bd85",
+    "sha256": "0bd7mprdrpp0l47bxhx5cw4hk9lszg726jgfmjzrcf0xvps24k8a"
+  },
+  "listbuffer": {
+    "name": "listbuffer",
+    "language": "python",
+    "version": "0.8.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/listbuffer.py",
+    "md5sum": "ed72246d21997da6cbca4290898f09d6",
+    "sha256": "06bh63mrcsznr6zlpbds6w164axjrzaj5aw0mvjgs7k78f2pwxlb"
+  },
+  "xclip": {
+    "name": "xclip",
+    "language": "perl",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/xclip.pl",
+    "md5sum": "7451090adaf71d7cc3c4e8268ded88de",
+    "sha256": "178n38l23nlj1c6n0x9d60dv8sk4yacfvjrvk4mnfpgq1ar81bw4"
+  },
+  "nma": {
+    "name": "nma",
+    "language": "python",
+    "version": "1.0.7",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/nma.py",
+    "md5sum": "4fd6cf1cb48735ca9dadd773c4a5e9ed",
+    "sha256": "1nynzs6488mjrxv2gf6pssi5pab1vscxfcfaxxkapihb6aiwfbvf"
+  },
+  "clone_scanner": {
+    "name": "clone_scanner",
+    "language": "python",
+    "version": "1.4",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/clone_scanner.py",
+    "md5sum": "31dbc50f4695667f17a0dcd3ccc6376f",
+    "sha256": "1n2dn305fxnn9qaxcb4d8y4z2milyaqsf3py7nhlk4qycrkz9ms2"
+  },
+  "autoauth": {
+    "name": "autoauth",
+    "language": "python",
+    "version": "1.1",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/autoauth.py",
+    "md5sum": "bed43e0ac52ca49563559abed5210ec1",
+    "sha256": "03l5v1ixix9qv57a6hqwvpmqrif28ia8z34xa7wyz57s0mdki9zx"
+  },
+  "growl": {
+    "name": "growl",
+    "language": "python",
+    "version": "1.0.6",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/growl.py",
+    "md5sum": "61b2eb1187248bfffd2cdbbab8d08364",
+    "sha256": "1pr739mhz2xw1qvjflardd2gxvpxdzx3gs1f1mpyyd3gi46plycy"
+  },
+  "infos": {
+    "name": "infos",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/infos.py",
+    "md5sum": "7b953550863b2d8afb44fd089e570694",
+    "sha256": "1143v19rkv0iv45nhxw5ixq58vv6nf15m2n7ydnmdzsjxivx478z"
+  },
+  "minesweeper": {
+    "name": "minesweeper",
+    "language": "python",
+    "version": "0.6",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/minesweeper.py",
+    "md5sum": "a82c9fee8755c1e6179001626cefe769",
+    "sha256": "1v4wmb4simngkrdqd2cfpd6k21wzj7w5iq9df6z70hk2i64yxf5k"
+  },
+  "isgd": {
+    "name": "isgd",
+    "language": "perl",
+    "version": "0.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/isgd.pl",
+    "md5sum": "fda4e1376dae3fc0b70bf79ed825a907",
+    "sha256": "093wl96ds1vykn4wl9xr3ssvb0rjyhl8px0c77r8kyvxwmjb14cz"
+  },
+  "slock_away": {
+    "name": "slock_away",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/slock_away.py",
+    "md5sum": "773423412563b7f091714c685f2cca5c",
+    "sha256": "0a14349683s7f9jmdshq4ylqm2pdsignndi1x8xmclfmh6rdihcm"
+  },
+  "sshnotify": {
+    "name": "sshnotify",
+    "language": "python",
+    "version": "0.2.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/sshnotify.py",
+    "md5sum": "34b875b4c7a9999a971c0eac43f3e417",
+    "sha256": "11jbvnc9ms0ak3hj6mndg2r1f83pnn1xhqq6si55x64mn2aicgan"
+  },
+  "urlserver": {
+    "name": "urlserver",
+    "language": "python",
+    "version": "2.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/urlserver.py",
+    "md5sum": "f7b30e089dff6686a21338f142c8ec47",
+    "sha256": "1i84448m5d12c4zm3pz9s996v6qis61kvsq28v64cqmkjapxjkim"
+  },
+  "gntp_notify": {
+    "name": "gntp_notify",
+    "language": "ruby",
+    "version": "1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/gntp_notify.rb",
+    "md5sum": "2fc60534b7f360c497696f1cd1ee62d7",
+    "sha256": "1swad01plhca1csa5f8rp0nq63ys8r1afq6q14kf7qpz4p9g7ha5"
+  },
+  "zmq_notify": {
+    "name": "zmq_notify",
+    "language": "ruby",
+    "version": "0.1",
+    "license": "BSD-3c",
+    "url": "https://weechat.org/files/scripts/zmq_notify.rb",
+    "md5sum": "d9a550637216c914452fab3c50857269",
+    "sha256": "0wwx223zg86pm7vy9vx2h2ymiydqch4fimqlj80zfizw285dy81b"
+  },
+  "snake": {
+    "name": "snake",
+    "language": "perl",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/snake.pl",
+    "md5sum": "73089449c7b9d30d1fdf3a6ae58565a6",
+    "sha256": "0aqd9aj9ir02mm7jn7xn2yc4dzrjr8hsfzcsbpdzzcnvd69wbirs"
+  },
+  "memon": {
+    "name": "memon",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/memon.py",
+    "md5sum": "d2a96ef4496c0e3645dd24a4553080c8",
+    "sha256": "13z69j9k4z49xa662lxb0awa74p2z33ygrlp3vhgljgzikc6cbw6"
+  },
+  "im_kayac_com_notify": {
+    "name": "im_kayac_com_notify",
+    "language": "python",
+    "version": "1.3",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/im_kayac_com_notify.py",
+    "md5sum": "b4393a7aa24d48f7b87c52fd54d47800",
+    "sha256": "0x9fnh10xlb68ca0mgqwrms4d7a7d9xmx54wwxyz12xgmhr4cm6h"
+  },
+  "bufsize": {
+    "name": "bufsize",
+    "language": "python",
+    "version": "0.8",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/bufsize.py",
+    "md5sum": "a683a42408094477fdb80cbc1f7544a2",
+    "sha256": "0ypbl12yh08lpq6cnlc9anfxk9gnn6s0fs3g9xn82risblwinrxg"
+  },
+  "logsize": {
+    "name": "logsize",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/logsize.py",
+    "md5sum": "2f3da7183f533faf590fa57f56346fa0",
+    "sha256": "19gj4k145limfx0glsl8f3my26kh6qir35v07p5g2yx79hj4icc3"
+  },
+  "hl_nicks": {
+    "name": "hl_nicks",
+    "language": "python",
+    "version": "0.1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/hl_nicks.py",
+    "md5sum": "96a917f0ad5a125fa1d5cfd5ec7301fe",
+    "sha256": "1cxw8vj4l86w04i8d1fjhs3mxyra7jjaqavj36p8rrq69mgg48aa"
+  },
+  "customize_bar": {
+    "name": "customize_bar",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/customize_bar.py",
+    "md5sum": "82ad8dcaebbf88713868395d06ee1a99",
+    "sha256": "0pgcd3djqnss453xi7y6jqg9iigj2jvm28d1j9hqxjx195ahg1hx"
+  },
+  "twmn_notify": {
+    "name": "twmn_notify",
+    "language": "python",
+    "version": "0.1.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/twmn_notify.py",
+    "md5sum": "b336c736532379b58d290f7a97ee8350",
+    "sha256": "0l3g1hz7wqpp45b1z9izi2jwzk0qb7nna4hsfymr3flj2vqzyfx1"
+  },
+  "server_autoswitch": {
+    "name": "server_autoswitch",
+    "language": "python",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/server_autoswitch.py",
+    "md5sum": "fa7d8024111df163111747315406f30a",
+    "sha256": "1h4msrrpkgb7ifbpw5mk3xsy2ncxv3p3r1g3kh4ysjgqp7xmn6ja"
+  },
+  "quick_force_color": {
+    "name": "quick_force_color",
+    "language": "python",
+    "version": "0.6.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/quick_force_color.py",
+    "md5sum": "c3cd8a556f3b3859a89ec8a70b612667",
+    "sha256": "0wpplfa9vbngf2f9lgfxzp8f5zh6pmq93cpz2ksvph5mk1mf9pw0"
+  },
+  "keepnick": {
+    "name": "keepnick",
+    "language": "python",
+    "version": "1.6",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/keepnick.py",
+    "md5sum": "5ef8e43112cf3f0bb91a7b638c3e275b",
+    "sha256": "0b27rzd983axvh61yblqrv0ma0039ad74zvk8jx5ry4z393iv0dp"
+  },
+  "recoverop": {
+    "name": "recoverop",
+    "language": "perl",
+    "version": "0.1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/recoverop.pl",
+    "md5sum": "cc56bfd81e6bd49b0fe43d75efa95c7d",
+    "sha256": "0rr0s8idnafmsclfqxlyvvjb7kv9b7mz1y614pj7gc8ziynv80x5"
+  },
+  "yaurls": {
+    "name": "yaurls",
+    "language": "perl",
+    "version": "1.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/yaurls.pl",
+    "md5sum": "4e11f88a525dbbeadff6e14ff145fca9",
+    "sha256": "13ki1nhx408g2jz2l0fykxa6i8l30hncwgxc7k2qrkmr04qxc7wc"
+  },
+  "rhythmbus": {
+    "name": "rhythmbus",
+    "language": "perl",
+    "version": "1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/rhythmbus.pl",
+    "md5sum": "0d0ea1aa3cc4e73f04a42b12f5c02ca4",
+    "sha256": "0f0j1zqlzak3v2b46l6qmwccnimpns28c3kj4ljzh9qz8gp3dq2q"
+  },
+  "dcc_send_relay": {
+    "name": "dcc_send_relay",
+    "language": "ruby",
+    "version": "0.0.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/dcc_send_relay.rb",
+    "md5sum": "c08144044e4ed9442564b0354155dd51",
+    "sha256": "03b8kc61m1fwhf0h3qc15jhq38xrzh0x82nphxzi03b3qm9fxa5b"
+  },
+  "unwanted_msg": {
+    "name": "unwanted_msg",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/unwanted_msg.py",
+    "md5sum": "03c1dadcd256ded444ec4da5953e2fc9",
+    "sha256": "1567rd4q5vxir19pam2hjzk9qxbrsspilzzq4zj34p89b77gcs7z"
+  },
+  "hl2file": {
+    "name": "hl2file",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/hl2file.py",
+    "md5sum": "75e8c41f1f134ab76f4fcc91252e2da1",
+    "sha256": "01imjasj6bp4qsgda7ajyy3wbl0hb4qz8pj0ibv8bm5a9f5gx4k8"
+  },
+  "samegame": {
+    "name": "samegame",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/samegame.py",
+    "md5sum": "39e5bf745430625b44cd5522a2f01b47",
+    "sha256": "00yj0v7q6jqkrzmq7prvz9sk5z0d732dhqs3fbb47g3b105na8d7"
+  },
+  "fish": {
+    "name": "fish",
+    "language": "python",
+    "version": "0.9.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/fish.py",
+    "md5sum": "212935e66bc609f831b1366caa647fb8",
+    "sha256": "1rgv5nq2kr5pmz8wx1m1qy142gmvd894dk0dblnm0miic4jlvqpj"
+  },
+  "weestats": {
+    "name": "weestats",
+    "language": "python",
+    "version": "0.3",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/weestats.py",
+    "md5sum": "116f3f6067e4383848a4d24a9ced0404",
+    "sha256": "1vij1ga1y4l942fr850i6p418ad9ini7b33cyjw9vpmk902ywz4y"
+  },
+  "gntpnotify": {
+    "name": "gntpnotify",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/gntpnotify.py",
+    "md5sum": "aa6d0f77438783140ecd7b4bf17f4e9d",
+    "sha256": "0z1w6nhg6qvbs7nl9ca5wsn3aypsxbipb32m0vpf47c82v3cg2mq"
+  },
+  "chatters": {
+    "name": "chatters",
+    "language": "perl",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/chatters.pl",
+    "md5sum": "4f0823815f21a78e18451250913e3ea5",
+    "sha256": "02vd41r4dpibb25mrdw6xzd4vqrdqnpw2zn6dm3ivnigrxg6wq7a"
+  },
+  "otr": {
+    "name": "otr",
+    "language": "python",
+    "version": "1.9.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/otr.py",
+    "md5sum": "38b6f008b1e009daf865291fe293e83a",
+    "sha256": "1pvcmpz693x01qn3zypkc87k3ljv16l6wd1gb86dyn632hxg5mvd"
+  },
+  "pyrnotify": {
+    "name": "pyrnotify",
+    "language": "python",
+    "version": "1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/pyrnotify.py",
+    "md5sum": "ca0ad973f432dad01ed5a9f914d45f25",
+    "sha256": "1bz9dgfxjfqwxiyq42q84macnnsi5slb76wh0ni2d99krzfm2bxh"
+  },
+  "itunes": {
+    "name": "itunes",
+    "language": "ruby",
+    "version": "1.0",
+    "license": "CC-BY-SA",
+    "url": "https://weechat.org/files/scripts/itunes.rb",
+    "md5sum": "3ed59a069d24981d33e9b3caf0e149f6",
+    "sha256": "10cxwpzb521w0pi0sd7lmpxzhlz4ibpcc83365nwh71001ld8rq1"
+  },
+  "wtwitter": {
+    "name": "wtwitter",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/wtwitter.py",
+    "md5sum": "2ef400a62ff7fb56ba047cc0d94f56e1",
+    "sha256": "09ghp6gxrzs4p14zkmygrd04nyhzqq9pbl5v621r33y74r3ra1cc"
+  },
+  "mpdbitl": {
+    "name": "mpdbitl",
+    "language": "lua",
+    "version": "1.2",
+    "license": "WTFPL",
+    "url": "https://weechat.org/files/scripts/mpdbitl.lua",
+    "md5sum": "94637cdd25fd292c5dda611f7305b9d6",
+    "sha256": "1hln15kii6zp6kcg5fa12flm7q9hkr3w08g3swh2n8900lziraaj"
+  },
+  "apply_corrections": {
+    "name": "apply_corrections",
+    "language": "python",
+    "version": "1.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/apply_corrections.py",
+    "md5sum": "1b4c758caef2c2c92c10018e7d7e6941",
+    "sha256": "0cr6mf3vsqqyd5x79mbzvki62ddx0n4hf8b47m81fhfl0mg70k5k"
+  },
+  "mplayer": {
+    "name": "mplayer",
+    "language": "python",
+    "version": "0.1",
+    "license": "Beerware",
+    "url": "https://weechat.org/files/scripts/mplayer.py",
+    "md5sum": "78acf4da4241dd469462c60af415bd13",
+    "sha256": "185kjsm2d9rg0bafrfs7xs71f6wyjvk5ay4rjdbciqr5krbsxjqs"
+  },
+  "notification_center": {
+    "name": "notification_center",
+    "language": "python",
+    "version": "1.3.0",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/notification_center.py",
+    "md5sum": "e42d2d976dbceb7dcda6cafc39eb196f",
+    "sha256": "0ajyrcaiql9ndln6531kpaca3zr5fmm7l0hjip641arnrpb27amy"
+  },
+  "anotify": {
+    "name": "anotify",
+    "language": "python",
+    "version": "1.0.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/anotify.py",
+    "md5sum": "1e83762a030b1d5d2825509abb1302f9",
+    "sha256": "1xrjdx61654gvw329fcm36wpcxvrapfbalpclm5arfh6c42a4nqg"
+  },
+  "maildir": {
+    "name": "maildir",
+    "language": "perl",
+    "version": "1.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/maildir.pl",
+    "md5sum": "5db75ee62472df9da164d36677509054",
+    "sha256": "13nlp1860ncshcc7qygxcgb087l1nklg2vc8mlybvf6y7pjffznn"
+  },
+  "coords": {
+    "name": "coords",
+    "language": "perl",
+    "version": "0.7.3.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/coords.pl",
+    "md5sum": "ff37c9021d3df92fbe628a5e8f719310",
+    "sha256": "1fvdgb1zfnjp4x7409vjdkms3z5jzykyclw2b2lqyaihbzsqbbl7"
+  },
+  "join2fast": {
+    "name": "join2fast",
+    "language": "perl",
+    "version": "0.8.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/join2fast.pl",
+    "md5sum": "b3d53c7273b5cacab821e9bf8dbc2243",
+    "sha256": "161d7607j21nnkixrgkvg4lnkh4pblmrgkrlj3kgf5idh4pscgh0"
+  },
+  "prowl_notify": {
+    "name": "prowl_notify",
+    "language": "python",
+    "version": "3.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/prowl_notify.py",
+    "md5sum": "2d4818665a559efa4bbe0a70971786b8",
+    "sha256": "0g9cd1pnly47f6fvxip7yhv3pkdmllddvzb6pp70sz1f5szfhvbx"
+  },
+  "noirccolors": {
+    "name": "noirccolors",
+    "language": "python",
+    "version": "0.3",
+    "license": "Public_domain",
+    "url": "https://weechat.org/files/scripts/noirccolors.py",
+    "md5sum": "11fd5dbf553661d929e91486865ad961",
+    "sha256": "12pibfwwg5jwk7irjphiwf10qcb8kkka84ja5ffa6hi7bywqxl99"
+  },
+  "irssinotifier": {
+    "name": "irssinotifier",
+    "language": "python",
+    "version": "0.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/irssinotifier.py",
+    "md5sum": "5760c202e09ad48528aa8490fb39f757",
+    "sha256": "1rmv4nh7890i9nfi4blfc7s6x9c7zpc5v2rl0s2vmb16rh4z8dv9"
+  },
+  "parse_relayed_msg": {
+    "name": "parse_relayed_msg",
+    "language": "perl",
+    "version": "1.9.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/parse_relayed_msg.pl",
+    "md5sum": "38a9f46569f2042ea40b88f2ed720fcc",
+    "sha256": "1wy33f0pq5brbfjjk0wfj4m0n6qhk77q2pwlklvns1zvskcd5h3a"
+  },
+  "rssagg": {
+    "name": "rssagg",
+    "language": "perl",
+    "version": "1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/rssagg.pl",
+    "md5sum": "f4459055be3c647cace4cbd98ae8de6b",
+    "sha256": "03mbklfgcx5jn11phfz7ch1b6n9mqr9r7n984syd8f4clh9l5an3"
+  },
+  "xterm_paste": {
+    "name": "xterm_paste",
+    "language": "perl",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/xterm_paste.pl",
+    "md5sum": "ff82947701db9a19ec3d5e82b16d571f",
+    "sha256": "1abl2pw8aqrykkiwnlzmvc6w599asz6i6yzdid59lw31nlp044l9"
+  },
+  "multiline": {
+    "name": "multiline",
+    "language": "perl",
+    "version": "0.6.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/multiline.pl",
+    "md5sum": "dd38cf30e03cc8b731e0423fe393f80f",
+    "sha256": "1smialb21ny7brhij4sbw46xvsmrdv6ig2da0ip63ga2afngwsy4"
+  },
+  "biditext": {
+    "name": "biditext",
+    "language": "python",
+    "version": "1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/biditext.py",
+    "md5sum": "b056bf7d84fff56f45edf3bb718d24fb",
+    "sha256": "0kzj797gjksnngw9mzx0c1ypbrh7bdh7xhyyj6kwk9d09vq438ix"
+  },
+  "histman": {
+    "name": "histman",
+    "language": "python",
+    "version": "0.8",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/histman.py",
+    "md5sum": "e60d0e9252b738c92df7d8642d4188a3",
+    "sha256": "178lmm8g968pv7ahiw1cn9zblh0jlswjbgh429inlpbwxq08m6k2"
+  },
+  "text_item": {
+    "name": "text_item",
+    "language": "python",
+    "version": "0.8",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/text_item.py",
+    "md5sum": "8085d45adf083c3b9f91c4bbb38b213e",
+    "sha256": "178264rza7il0k9xvs6w7si64sygxazydwcxfxp7aqv7aq41rs8f"
+  },
+  "toggle_highlight": {
+    "name": "toggle_highlight",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/toggle_highlight.py",
+    "md5sum": "3c98ee47dfea808f5ce67551010a8c3e",
+    "sha256": "1qwjaizkrcd7zr1p0y11sx8pg1x72f90d8ckcq0vaxjra0yq1wgq"
+  },
+  "spell_menu": {
+    "name": "spell_menu",
+    "language": "perl",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/spell_menu.pl",
+    "md5sum": "bac344441722c36af24e5dc751404bd3",
+    "sha256": "1s779riwa0gqg5wlpsqddm3bcnx9y18n213vjmjcnhzwfzc4kj9q"
+  },
+  "color_popup": {
+    "name": "color_popup",
+    "language": "perl",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/color_popup.pl",
+    "md5sum": "2211a96d399f1b43a51745059ae1b95c",
+    "sha256": "00hcx9gg5jvj6b7sx6nyicika9s769x361fxrcjwmjkicqnl8kix"
+  },
+  "spell_correction": {
+    "name": "spell_correction",
+    "language": "python",
+    "version": "0.8.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/spell_correction.py",
+    "md5sum": "41f3678c3767dad336992080a4de16b4",
+    "sha256": "1zvpzw6q5xjrrixxg2r353ls58kx8vnhycjp9nw6f8n51lzhq81a"
+  },
+  "format_lines": {
+    "name": "format_lines",
+    "language": "perl",
+    "version": "1.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/format_lines.pl",
+    "md5sum": "4a0d8e3770a18ad06119165f5d294202",
+    "sha256": "0bsrxa6lf6iwqnihz98sqvrl193l6snr244p4402x8dik8xpqfyh"
+  },
+  "stick_buffer": {
+    "name": "stick_buffer",
+    "language": "python",
+    "version": "0.6",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/stick_buffer.py",
+    "md5sum": "821c0cddb2bea056624d1892002b7461",
+    "sha256": "0lwmiby7f7n38njiqwramp9jd8si4w096fnd4aain0kkki5dnds4"
+  },
+  "luanma": {
+    "name": "luanma",
+    "language": "perl",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/luanma.pl",
+    "md5sum": "af28171ad6fa5840423cb951f0ad6496",
+    "sha256": "0qdm06r4ib0swj471vksjp7325my5m500z0m7l359nbpxk2k9n6b"
+  },
+  "notify_send": {
+    "name": "notify_send",
+    "language": "perl",
+    "version": "1.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/notify_send.pl",
+    "md5sum": "85e97d84a2b16b0d6dfe52842daf3a71",
+    "sha256": "01x3d3sf6pkfx1pdl9dz4p7ky3jd3aaj5fpb1700i6slagikkmsp"
+  },
+  "pushover": {
+    "name": "pushover",
+    "language": "perl",
+    "version": "2.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/pushover.pl",
+    "md5sum": "1b624fa87ce390cfab28f67563cd3dd1",
+    "sha256": "1pzkbpf55srm8nbw4j62mz335kkhci1y5b7g4vvy9p30cqv4kxpr"
+  },
+  "cmus": {
+    "name": "cmus",
+    "language": "python",
+    "version": "1.02",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/cmus.py",
+    "md5sum": "04d02517f6f841d71e862cf884c0072e",
+    "sha256": "0z1vl8rcivmnc191s987x6nrwqm1bj1yxs8wjrr639i4nmwsxygk"
+  },
+  "http_item": {
+    "name": "http_item",
+    "language": "lua",
+    "version": "1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/http_item.lua",
+    "md5sum": "50265c428b9beb1cdce08295bd354e46",
+    "sha256": "1yaqgfv58m5x2xhc5876czq3mjmzrrxgg2xj3zsa7z105c6k3kbx"
+  },
+  "weemustfeed": {
+    "name": "weemustfeed",
+    "language": "python",
+    "version": "0.3",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/weemustfeed.py",
+    "md5sum": "740d95aa5699f433c690c616b25a6194",
+    "sha256": "0s6v9a2x1bkzxwjbadg7xchwrxzg1jgrgqgmcw8fidvarrdjzbj4"
+  },
+  "challengeauth": {
+    "name": "challengeauth",
+    "language": "ruby",
+    "version": "0.0.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/challengeauth.rb",
+    "md5sum": "9d730cc08c1ec78c1376a36143f9c8a6",
+    "sha256": "1xiy0z2hw10098kzknnfkgrq84l8zpsan3z4md512kxgizpnxwb7"
+  },
+  "weetweet": {
+    "name": "weetweet",
+    "language": "python",
+    "version": "1.2.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weetweet.py",
+    "md5sum": "ea53e51701e978d1071f6b768442a584",
+    "sha256": "12q9azhjmmpvc7b1fvm98p5y1jx3rnfwq3738z5z9z8sw77zf13q"
+  },
+  "stalker": {
+    "name": "stalker",
+    "language": "perl",
+    "version": "1.6.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/stalker.pl",
+    "md5sum": "78780e54cbe4afc2258297d9482faba0",
+    "sha256": "0pzis970saxdd9ldw7y4jy706hbp6rsxhqdcr8g7r6sgzzd8kxa3"
+  },
+  "spacer": {
+    "name": "spacer",
+    "language": "perl",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/spacer.pl",
+    "md5sum": "075700ac9f705c3c450e68c3fa5579b3",
+    "sha256": "1g48a1kmwdcp0y0khawhd2nn350vvbby1sckjwlgzwf5dpl238rg"
+  },
+  "mass_hl_blocker": {
+    "name": "mass_hl_blocker",
+    "language": "perl",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/mass_hl_blocker.pl",
+    "md5sum": "216fbba9020c32904c51474eddfe6e9d",
+    "sha256": "1mshhijd81gg2w5845li2sd95sfy9nki9sndyi0w9c84fd829pkf"
+  },
+  "mnotify": {
+    "name": "mnotify",
+    "language": "python",
+    "version": "0.4",
+    "license": "Beerware",
+    "url": "https://weechat.org/files/scripts/mnotify.py",
+    "md5sum": "944f1f94507e37e3b3dc34e4ea69655f",
+    "sha256": "1hkbfnysl54jszac3spm8fgvvdlzc5vs19nbmawhnzm7fl12qalg"
+  },
+  "weeprowl": {
+    "name": "weeprowl",
+    "language": "python",
+    "version": "0.7",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/weeprowl.py",
+    "md5sum": "b83a28f38f8a6abacc3011cdca15edef",
+    "sha256": "00hjyl1yywrqr1ag0x43ibax1awbg10plyqwrmap7fxy1l2n7lfv"
+  },
+  "url_arza": {
+    "name": "url_arza",
+    "language": "perl",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/url_arza.pl",
+    "md5sum": "710ce754517953426ed3e45f67599f36",
+    "sha256": "04a8binmyaijs8x12s4sgzb7hg318dzn3z3qvy3ji19nv0vk6vr8"
+  },
+  "samechannel": {
+    "name": "samechannel",
+    "language": "ruby",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/samechannel.rb",
+    "md5sum": "11621a4bec1105dd1459034f941f2276",
+    "sha256": "0wzsyl37ga03bsacjf6c4qk3i3n901pz7rs9iyk04lls4l26lfsh"
+  },
+  "queryman": {
+    "name": "queryman",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/queryman.py",
+    "md5sum": "d41e3a1cdc62220bed88e73fb47055b0",
+    "sha256": "0npgiyhhwwk2yjfbsh9xsr3yf2mvh47fam0gqycxggqr0iwaiz9j"
+  },
+  "vimode": {
+    "name": "vimode",
+    "language": "python",
+    "version": "0.7",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/vimode.py",
+    "md5sum": "392c1b3b64e0f4b26b9803df1f0598c8",
+    "sha256": "1ypn5hkz9n7qjmk22h86lz8sikf7a4wql08cc0540a5lwd4m2qgz"
+  },
+  "oldswarner": {
+    "name": "oldswarner",
+    "language": "lua",
+    "version": "2.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/oldswarner.lua",
+    "md5sum": "5032bc2abe04979b273d6119d3d9cdf4",
+    "sha256": "1zkhqkalwaa8z2p1s4wsj39lkidx94j24gypk64cr59f012ib9bk"
+  },
+  "weespotify": {
+    "name": "weespotify",
+    "language": "ruby",
+    "version": "1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weespotify.rb",
+    "md5sum": "df8a73d7e0878c4e2d17097e23f217d9",
+    "sha256": "00l06n96k7423xj4r5dmsm7ljhra9fg311ds172b2b5ydja4lx61"
+  },
+  "tmux_env": {
+    "name": "tmux_env",
+    "language": "python",
+    "version": "2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/tmux_env.py",
+    "md5sum": "fd17cfd3a344a306f67fe3b3a1fe4743",
+    "sha256": "0v5slqms5cfqbsb1qrdq7mvdac7sn1jdh7g6nyaxi1m5fv0bwam0"
+  },
+  "sort_servers": {
+    "name": "sort_servers",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/sort_servers.py",
+    "md5sum": "5eb3b7a49f11cebe45a62764a9f7f8f1",
+    "sha256": "1dq0jynrzafrz0904hkjlh06vcbmy51jk77cm3n9v2d3kj3bdnxv"
+  },
+  "autosavekey": {
+    "name": "autosavekey",
+    "language": "python",
+    "version": "0.4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/autosavekey.py",
+    "md5sum": "0c1d8a6a77323e247dbc4ef8a98cde5e",
+    "sha256": "0z1qrfbd9kpk9fqnklcibk8yhk5ihzw0xq4km35mafhpnd83b30k"
+  },
+  "hl_here": {
+    "name": "hl_here",
+    "language": "perl",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/hl_here.pl",
+    "md5sum": "75a16e062d538d656f6362e10d6cd4a8",
+    "sha256": "1n5ba5zpg111sh11rfscsiknlh4al9ib2xjh72bkwzpfcdwwfza3"
+  },
+  "undernet_challenge": {
+    "name": "undernet_challenge",
+    "language": "ruby",
+    "version": "0.1.0",
+    "license": "BSD-2c",
+    "url": "https://weechat.org/files/scripts/undernet_challenge.rb",
+    "md5sum": "af080f0dc60b7fdef5d95c0818bc624c",
+    "sha256": "173mc3acp4nkg3pf2fr5iq9s5b696cd3gsi02hs943iylsiah3w8"
+  },
+  "jump_smart_closest": {
+    "name": "jump_smart_closest",
+    "language": "perl",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/jump_smart_closest.pl",
+    "md5sum": "e8f891cf288458db0eaeac64988d13e0",
+    "sha256": "1pgskj8brpy2jcahlmmj3prb9jdvd8ad72cdw9pqr6cy7x5d7iig"
+  },
+  "irssi_awaylog": {
+    "name": "irssi_awaylog",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/irssi_awaylog.py",
+    "md5sum": "560899f2bfa6d7379790efd0a4d435eb",
+    "sha256": "03vd0qpvql05rcrfgswmr9c3mrbvkjs87wqj61w8kx1l8sijdsj3"
+  },
+  "weatherbot": {
+    "name": "weatherbot",
+    "language": "python",
+    "version": "0.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weatherbot.py",
+    "md5sum": "d4d2cbc706fb9fe6b70392e8ab163b81",
+    "sha256": "1v56wmqd8ws52jimbk2pxg5b0fwax4s3qam7jfdhg52ni7jhwnsc"
+  },
+  "cmdind": {
+    "name": "cmdind",
+    "language": "perl",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/cmdind.pl",
+    "md5sum": "55fe23521621fb45f2851c5d112e7141",
+    "sha256": "1169sqiql606509hc1f93pi5wx84in5j531x2gf09hv9rzpnilr0"
+  },
+  "substitution": {
+    "name": "substitution",
+    "language": "ruby",
+    "version": "0.0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/substitution.rb",
+    "md5sum": "33f208cb8adebbfb4b26a732564a40c1",
+    "sha256": "1abpbcnzc7bikmm9ca1zsvmfn678mzw33mqwkyxs13122xa82cfx"
+  },
+  "undernet_totp": {
+    "name": "undernet_totp",
+    "language": "python",
+    "version": "0.4.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/undernet_totp.py",
+    "md5sum": "0dabf779337a027983f7a9d66270f553",
+    "sha256": "1knr36m008y32rgyg46mrwx9z6zvaqip8sv10b3jh25kggm1crnr"
+  },
+  "autojoinem": {
+    "name": "autojoinem",
+    "language": "python",
+    "version": "0.6",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/autojoinem.py",
+    "md5sum": "0cbfe71a50a927db8fb3eff1bcceffcd",
+    "sha256": "1rns6lnb1d9mdla30apf9zxpf5rqsi7a458j06690nqirh9fvfkv"
+  },
+  "weemoticons": {
+    "name": "weemoticons",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weemoticons.py",
+    "md5sum": "d1dbb5bd5f2ded8635a6fc16c21e4dc2",
+    "sha256": "1nh2kc895z14bx1q6whnrd23nw6axmf7darlhb0gqrw7k2i836h7"
+  },
+  "weetext": {
+    "name": "weetext",
+    "language": "python",
+    "version": "0.1.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weetext.py",
+    "md5sum": "72739b63f2807df83c2925188f882178",
+    "sha256": "1ahl19x6x97sr5fn9aszhk5mymjxpqm4015kmkdidg5alcx5qsk9"
+  },
+  "autopong": {
+    "name": "autopong",
+    "language": "python",
+    "version": "0.2",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/autopong.py",
+    "md5sum": "d7b9dab3edbfb2da0427106b60da777a",
+    "sha256": "0bqmfb3agbfhz5g8nhc3ja9g4ljr1z7jz613ywb8s4qbd3nb36yq"
+  },
+  "pastebuf": {
+    "name": "pastebuf",
+    "language": "lua",
+    "version": "0.3",
+    "license": "WTFPL",
+    "url": "https://weechat.org/files/scripts/pastebuf.lua",
+    "md5sum": "46f3b135e41898b9755123965b46945c",
+    "sha256": "0v24d9lha1iskfy80f1ab5366vcs0dmk051a6q7xyg84ispqd0pb"
+  },
+  "autosort": {
+    "name": "autosort",
+    "language": "python",
+    "version": "3.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/autosort.py",
+    "md5sum": "ad3805fbfb49f523ee7d45c6d2991c0c",
+    "sha256": "1n01wiinvf4ss00slgb8ljbdz0ykamyybr9qrx8i1lh5387pbmzi"
+  },
+  "shutup": {
+    "name": "shutup",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/shutup.py",
+    "md5sum": "bb049b7aa0b60a9f0c36e7b7b056313a",
+    "sha256": "036gha3lj0d3975c81iy6l239xy03l6y130bh30m9s53vjhj8nf4"
+  },
+  "responsive_layout": {
+    "name": "responsive_layout",
+    "language": "python",
+    "version": "0.7",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/responsive_layout.py",
+    "md5sum": "3eb4f0f36cca49c2d6262721f84640d8",
+    "sha256": "191p7w59pj99fy0nla08p66blajpblz1b2hvfgarg8b82whv2v35"
+  },
+  "axolotl": {
+    "name": "axolotl",
+    "language": "python",
+    "version": "0.1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/axolotl.py",
+    "md5sum": "0e5245d60c7f5ce4ccb38acaaad06b87",
+    "sha256": "008kvfldanbbn4dy6wgm7jqx9xzy7jkxx6y65hskl96lvj2q437w"
+  },
+  "btc_ticker": {
+    "name": "btc_ticker",
+    "language": "python",
+    "version": "2.1.0",
+    "license": "BSD-3c",
+    "url": "https://weechat.org/files/scripts/btc_ticker.py",
+    "md5sum": "d91f031d132321998c9569a9dbf5fec8",
+    "sha256": "1y25dxdplwbsqfmkrq20gr51ssp3i6i24cpvg4gcy2srbv60s4gl"
+  },
+  "clemy": {
+    "name": "clemy",
+    "language": "python",
+    "version": "0.1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/clemy.py",
+    "md5sum": "32324cd5c138d4ac0b78cdae569dd423",
+    "sha256": "1pgnrcnqni3brjqddwq7ikylziy61z6015rjl6is3wjmagx1bgbg"
+  },
+  "countdown": {
+    "name": "countdown",
+    "language": "ruby",
+    "version": "0.0.2",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/countdown.rb",
+    "md5sum": "5d046bf144a384808a8c7c6951e4bb43",
+    "sha256": "07p6q4lxsd6z7irb75yjbg7bh2aq2xk3ph9d4z4wcyfylr4816nm"
+  },
+  "ws_replace": {
+    "name": "ws_replace",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/ws_replace.py",
+    "md5sum": "70650c53179ce79ca4d35181236437a8",
+    "sha256": "14dgq7l5zd07nrl2ac7didpl447w21q0z7886nz8bp8bicz86qlv"
+  },
+  "auth": {
+    "name": "auth",
+    "language": "ruby",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/auth.rb",
+    "md5sum": "93ea27425bc0a7e2e1b08b9ffab18ab0",
+    "sha256": "0mml3fgk0373h7flczjzjkjxwjzq684hy7l6rnrkyyh3bcw06ghh"
+  },
+  "mnick": {
+    "name": "mnick",
+    "language": "perl",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/mnick.pl",
+    "md5sum": "b69e4bfeb625c40da276a71c67f33dd5",
+    "sha256": "1kj8mrd6y6ldz9wk7ncj759yvz0jqm9vyd6d0jrhahs34x55bb93"
+  },
+  "urlselect": {
+    "name": "urlselect",
+    "language": "lua",
+    "version": "0.4",
+    "license": "WTFPL",
+    "url": "https://weechat.org/files/scripts/urlselect.lua",
+    "md5sum": "885618d7431c06e1de9a28f6e8d32ddc",
+    "sha256": "1w1pml800bhsv01cd7h955wi6j2i4j3w2nrql80ksq6qb5msnn2s"
+  },
+  "url_hinter": {
+    "name": "url_hinter",
+    "language": "ruby",
+    "version": "0.41",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/url_hinter.rb",
+    "md5sum": "10e9222fafa388b3157a8e9dd4496168",
+    "sha256": "0c42rgdyjsh2r5b7ds880vy2zglgz0w8rfv3nmbpqbzakvk5vhma"
+  },
+  "triggerreply": {
+    "name": "triggerreply",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/triggerreply.py",
+    "md5sum": "77ebd6b49efa0aeb0498f7c1afff75c2",
+    "sha256": "0lml8ia7lbkfcpm267y7y2z9r76dm98sb8ryjv25c8vc74013gvh"
+  },
+  "emote": {
+    "name": "emote",
+    "language": "guile",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/emote.scm",
+    "md5sum": "439296a29484e4bdf7cc550a2ba0ecb8",
+    "sha256": "1222rgh0migx6zar1vbddvnjc7h13n319h40ms5nha2vgw9n62ky"
+  },
+  "xfer_scp": {
+    "name": "xfer_scp",
+    "language": "python",
+    "version": "1.0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/xfer_scp.py",
+    "md5sum": "b5917da9a59f09fbf77149f9eb3af86f",
+    "sha256": "1sfywn738pss9cfp9rvyssf0s27lv6pbwa8wrmsj3cz6mp3gis4n"
+  },
+  "socket_notify": {
+    "name": "socket_notify",
+    "language": "ruby",
+    "version": "0.0.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/socket_notify.rb",
+    "md5sum": "771eee718d729bdd5591884c6b96d7d9",
+    "sha256": "13qrvf98rwrdasycvnrmsiy023q8hirhn5xmcmnwcl1sjgbbfjim"
+  },
+  "colorizer": {
+    "name": "colorizer",
+    "language": "ruby",
+    "version": "0.1",
+    "license": "BSD",
+    "url": "https://weechat.org/files/scripts/colorizer.rb",
+    "md5sum": "22ff2016189f43a55794da714df6c3b7",
+    "sha256": "0h5dgnrycpyb2qxipxb2972v359qm6w12cw7mrwvii4xm2rc79ar"
+  },
+  "smile": {
+    "name": "smile",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/smile.py",
+    "md5sum": "c3ad0e7155629fd01a60377c264de413",
+    "sha256": "1vqdaimn1rglm2vbyairmvympda0gg2zy87gvfsp9045k5gh3xsm"
+  },
+  "bitlbee_completion": {
+    "name": "bitlbee_completion",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/bitlbee_completion.py",
+    "md5sum": "3fe6b921beb50023c89691e117556a18",
+    "sha256": "10h3p15gs2f9za8vmy2may75rzxlrdv2xqk9ly3avz2cqvzwnfm9"
+  },
+  "beinc": {
+    "name": "beinc",
+    "language": "python",
+    "version": "3.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/beinc.py",
+    "md5sum": "5420fee1822a87debadc5395e6884884",
+    "sha256": "0drh7vgn6jixw9pp5yk919a9s0vf42lwjj0whzxnfnf009jz45mx"
+  },
+  "fullwidth": {
+    "name": "fullwidth",
+    "language": "python",
+    "version": "0.1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/fullwidth.py",
+    "md5sum": "0565239c1458f75ba115fec09f9f2d10",
+    "sha256": "1algkz5i3rp5ycb5wwcaz9cm0bddasyrykw6md33wzq0g9fahj3d"
+  },
+  "deadbeef_np": {
+    "name": "deadbeef_np",
+    "language": "python",
+    "version": "0.9",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/deadbeef_np.py",
+    "md5sum": "66b8aa06c9a1c1cbd35efe0805066a9c",
+    "sha256": "121mk4lipsvlybgj18gfprwrk72kqpq8rmshqp7yhib40wb0ipag"
+  },
+  "slack": {
+    "name": "slack",
+    "language": "python",
+    "version": "2.2.0",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/slack.py",
+    "md5sum": "2dbdbafe16b4e84898a50ada7e4e6f15",
+    "sha256": "1axfw6ml56mfk48z379gaq0xvbqfk216jzqyml9hpxsxcl2lhghx"
+  },
+  "mpris2_np": {
+    "name": "mpris2_np",
+    "language": "python",
+    "version": "0.4.3",
+    "license": "BSD-2c",
+    "url": "https://weechat.org/files/scripts/mpris2_np.py",
+    "md5sum": "18a1fe0ca079756e8482c592f0f0cd95",
+    "sha256": "0hdg605zmzjfgqxrjl6ca9md3mh3qn7rfp26vg6yj6la951m41qq"
+  },
+  "ircrypt": {
+    "name": "ircrypt",
+    "language": "python",
+    "version": "1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/ircrypt.py",
+    "md5sum": "6fff809ab55c3af87414bf45391c2648",
+    "sha256": "08vm10f2jkck986q8xwzn9y75wcbswfapp9652xrs69090rfcm91"
+  },
+  "automarkbuffer": {
+    "name": "automarkbuffer",
+    "language": "python",
+    "version": "1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/automarkbuffer.py",
+    "md5sum": "50b6e526fca09c94ee873e928ce189ac",
+    "sha256": "0c79w90skn0bzwp6rqk9207wi4drp071ppj3drgxkp2pyclmg3yg"
+  },
+  "hatwidget": {
+    "name": "hatwidget",
+    "language": "python",
+    "version": "1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/hatwidget.py",
+    "md5sum": "cc871a0ee93d6bcb016e070ed9c88404",
+    "sha256": "0da8gjfbri9is7ciy0db7xlirifkz49qw0mgfxpa7cpijnjhzqmj"
+  },
+  "unread_buffer": {
+    "name": "unread_buffer",
+    "language": "python",
+    "version": "2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/unread_buffer.py",
+    "md5sum": "81bbbce6a45c246817406e7b8c3f78b0",
+    "sha256": "0xrds576lvvbbimg9zl17s62zg0nyymv4qnjsbjx770hcwbbyp2s"
+  },
+  "sort_arza": {
+    "name": "sort_arza",
+    "language": "perl",
+    "version": "1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/sort_arza.pl",
+    "md5sum": "0b79999d88908ff12ffcb6cd020053c2",
+    "sha256": "100v277syrzjrsy69fczj9zq6prgba2lpkb9s6m5dyk8q0sq181h"
+  },
+  "dzen_notifier": {
+    "name": "dzen_notifier",
+    "language": "perl",
+    "version": "0.2",
+    "license": "Artistic2.0",
+    "url": "https://weechat.org/files/scripts/dzen_notifier.pl",
+    "md5sum": "d5ffc7a6deb19d51857a9e3edc23927f",
+    "sha256": "0d00md2ik5v8hz609icl25h7k9rmsmhyv0fg2j0li92g0qh5cd8p"
+  },
+  "weestreamer": {
+    "name": "weestreamer",
+    "language": "python",
+    "version": "0.4.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weestreamer.py",
+    "md5sum": "fa5470fb3312cc8080fcf17581a10ef8",
+    "sha256": "18xaflxva7ax8pg0l6chmmg3ai3wl08f62411d0k1fmzaz2jjqiw"
+  },
+  "commorkers": {
+    "name": "commorkers",
+    "language": "perl",
+    "version": "0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/commorkers.pl",
+    "md5sum": "f5b0b1c26c4a2656cdac2c12044fa36a",
+    "sha256": "1q4vwypgj44kp54hw8cx5c7jwm9sgmidy3y4rx071szkcjqlp20n"
+  },
+  "grep_filter": {
+    "name": "grep_filter",
+    "language": "python",
+    "version": "0.9",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/grep_filter.py",
+    "md5sum": "4fd094b85354767cfdc37af3757ef92f",
+    "sha256": "0bgrd9xlhqhkvmcll60b2s4s2vg96ib0bpwv9x13kvxx9md7zmgp"
+  },
+  "autospurdo": {
+    "name": "autospurdo",
+    "language": "javascript",
+    "version": "1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/autospurdo.js",
+    "md5sum": "caea6dbda5c1a66a0f179731d287efea",
+    "sha256": "0q3sr6rglr3d1nsikv0dpy201gwpmwcmv1yx10cyyq1rpv1ayl68"
+  },
+  "win_scroll_screen": {
+    "name": "win_scroll_screen",
+    "language": "python",
+    "version": "1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/win_scroll_screen.py",
+    "md5sum": "cc8aae7956dba8f7aed8de3cfce5ba60",
+    "sha256": "1y1sz3a8w63k4983my30im4gl1q7sjlmaw41c6v755j6356lwnc2"
+  },
+  "chancomp": {
+    "name": "chancomp",
+    "language": "python",
+    "version": "1.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/chancomp.py",
+    "md5sum": "238e029befac77fb472ad88de4776d00",
+    "sha256": "114wcf8gzga1zl386y25dhzwma9ba2wr8pagsrvfg4ypgwfa5zg2"
+  },
+  "emoji_aliases": {
+    "name": "emoji_aliases",
+    "language": "python",
+    "version": "1.0.2",
+    "license": "BSD",
+    "url": "https://weechat.org/files/scripts/emoji_aliases.py",
+    "md5sum": "fc5ac2bd8ac4650aba1eab55185115a3",
+    "sha256": "0876mqn5sm47fisclsw69grmajah9rwc4gqnf762nshvndlnjyxf"
+  },
+  "karmastorm": {
+    "name": "karmastorm",
+    "language": "guile",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/karmastorm.scm",
+    "md5sum": "ef84f2eb26516492fd5fb1525a8ec8e0",
+    "sha256": "0fm7v868q1f2yil8gh9krvm64lvgpsn7a989lppwc76jrghb0ppm"
+  },
+  "whowas_timeago": {
+    "name": "whowas_timeago",
+    "language": "python",
+    "version": "1.2",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/whowas_timeago.py",
+    "md5sum": "f83dc184b7bec76abb8f6e879ad67326",
+    "sha256": "1nifcq6x1h90ly4vivyyyi3kbwyrp357i6n4fvc83l00k1qp72sh"
+  },
+  "maskmatch": {
+    "name": "maskmatch",
+    "language": "python",
+    "version": "1.4",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/maskmatch.py",
+    "md5sum": "e53441116dd45376f837014ca27de91c",
+    "sha256": "1y8mm6x9ci9gvakdy6gpw00rrg44ls9p08i78r8d3cm2fk2c24zp"
+  },
+  "whatsapp": {
+    "name": "whatsapp",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/whatsapp.py",
+    "md5sum": "25e8c890974a4138082d1d72ac31b0d8",
+    "sha256": "1zflw63rh66w42giz6gkzn99fcbg82i0kdlfwxycx3ja3hvi2yrs"
+  },
+  "lastfm2": {
+    "name": "lastfm2",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/lastfm2.py",
+    "md5sum": "def911c9d247a3ffb10bb0896af2e6b6",
+    "sha256": "032lj2i097iavbin291nkr4h3i4fsxy9pg6y6104ih92h2gsz571"
+  },
+  "cleanbuffer": {
+    "name": "cleanbuffer",
+    "language": "ruby",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/cleanbuffer.rb",
+    "md5sum": "83c81b3ea68a3e567276988941cefcdc",
+    "sha256": "0siapk53fshv0q2i49zd92sh3y2ys54587q1qw5wczcmliczqw66"
+  },
+  "notifym": {
+    "name": "notifym",
+    "language": "perl",
+    "version": "1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/notifym.pl",
+    "md5sum": "04fb9014d24d5a19c0f0e26c40ed640f",
+    "sha256": "1vc5c2slmicqaag9qcplnj4p2s13s52aq6w35aighr2s0sivynw8"
+  },
+  "mop": {
+    "name": "mop",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/mop.py",
+    "md5sum": "b083090b1dc9c52d7e1441c04a30670f",
+    "sha256": "1xdidmi5w7jmqn0ndkyda5xak16ai61x9nssldzwf1qybsn7x9mz"
+  },
+  "emoji": {
+    "name": "emoji",
+    "language": "lua",
+    "version": "4",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/emoji.lua",
+    "md5sum": "ae59bebd7bb878a06fb71b1d056225c1",
+    "sha256": "1snlvl0h2f9xqirb4dd7w01hrg3ab409wvp4k9xw1j0rchvs8r3j"
+  },
+  "notification": {
+    "name": "notification",
+    "language": "python",
+    "version": "1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/notification.py",
+    "md5sum": "5d1a7fc8078df3f5716fb5317c670f34",
+    "sha256": "013hhd70h12qika54a37c97r9zk214fzq03fpa6bnzk0kvbl95z1"
+  },
+  "terminal_title": {
+    "name": "terminal_title",
+    "language": "python",
+    "version": "1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/terminal_title.py",
+    "md5sum": "c98752bf26977b5bf928b254ed5853d4",
+    "sha256": "17m9z4qckb0vx8v95k46n7np9rklbymac42iaiads95i5sjan9mh"
+  },
+  "emoji2alias": {
+    "name": "emoji2alias",
+    "language": "python",
+    "version": "0.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/emoji2alias.py",
+    "md5sum": "42b23dde989c5a3c211e3f22a7869e2f",
+    "sha256": "00q4jf1lnd6xj6yyvd9aq28jfxsxkg0q45q1dx7dxpdr0rjdrnnq"
+  },
+  "atcomplete": {
+    "name": "atcomplete",
+    "language": "perl",
+    "version": "0.001",
+    "license": "Apache2.0",
+    "url": "https://weechat.org/files/scripts/atcomplete.pl",
+    "md5sum": "7bfe010a84fa3244f10355b9c022b455",
+    "sha256": "0axvb0h06a48rpqcnps5akhjhxhwc4bnlfkkvh0qvzm3cl0pxr9x"
+  },
+  "buffer_dmenu": {
+    "name": "buffer_dmenu",
+    "language": "python",
+    "version": "0.1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/buffer_dmenu.py",
+    "md5sum": "5bae7fe8838ef27caf671c1473bf51f4",
+    "sha256": "1v7nndwilqph3qqg7a495wz8pr2ny2wqhnjjfxkc84q5mbapj69n"
+  },
+  "mqtt_notify": {
+    "name": "mqtt_notify",
+    "language": "python",
+    "version": "0.5",
+    "license": "WTFPL",
+    "url": "https://weechat.org/files/scripts/mqtt_notify.py",
+    "md5sum": "f73a344cb68ac6cd3ded1165fa0f242b",
+    "sha256": "1086nrqj8jvq2gca2dlf68k2hn16sdpdf98y3vnf82sqivxspg1s"
+  },
+  "unhighlight": {
+    "name": "unhighlight",
+    "language": "python",
+    "version": "0.1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/unhighlight.py",
+    "md5sum": "8d094efb2d57ad93a621bbfff3033f55",
+    "sha256": "0yqd6ix577yvp9y45ii7qwx0wdrphc0xjqaqcf2fq1020fs9kpx0"
+  },
+  "mpv": {
+    "name": "mpv",
+    "language": "python",
+    "version": "0.1",
+    "license": "Beerware",
+    "url": "https://weechat.org/files/scripts/mpv.py",
+    "md5sum": "aa765cc2c8adbe3a0580a19df5961c9c",
+    "sha256": "0x1jlhpm772svdha8sc53nxz319rgj61z2gqhypyhcvm7x0bmnkv"
+  },
+  "buffer_bind": {
+    "name": "buffer_bind",
+    "language": "python",
+    "version": "1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/buffer_bind.py",
+    "md5sum": "a1e58d38ce36fac4a6bb7ef81d877041",
+    "sha256": "1n96s9vc1i9x5jcs90szqb63kcc51bz348399l2kisyrgh9s02f6"
+  },
+  "latex_unicode": {
+    "name": "latex_unicode",
+    "language": "python",
+    "version": "1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/latex_unicode.py",
+    "md5sum": "da64cb89f474e7e5331d4619dc6ca1c1",
+    "sha256": "1mhfw2v3rhxhvddrk50yfsb52nfaqa0rdmd1c2rpbzf7fbphqfwz"
+  },
+  "jisearch": {
+    "name": "jisearch",
+    "language": "python",
+    "version": "0.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/jisearch.py",
+    "md5sum": "00e3c1545fb0153c3e78a47d9717471a",
+    "sha256": "1dw3bgj2x0401xf3bb2j8d1fgbbnkrd1idn0sf0iqij3ij04filf"
+  },
+  "twitch": {
+    "name": "twitch",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/twitch.py",
+    "md5sum": "a6020227ee5b0efadfe245cf27d6b7e3",
+    "sha256": "0q5r8ybdi2wf0fjzmrh6d8fkabl4c7jncja8qih4p63a68lcfs9m"
+  },
+  "nick_complete_wrapper": {
+    "name": "nick_complete_wrapper",
+    "language": "lua",
+    "version": "0.1",
+    "license": "WTFPL",
+    "url": "https://weechat.org/files/scripts/nick_complete_wrapper.lua",
+    "md5sum": "757e52c1127d8d077bce2db9caf4db08",
+    "sha256": "06xsksdcb1lv2gvw2vrrjl2fq25kiamq1rq9bjh6xqf3dlarlj7a"
+  },
+  "url_olde": {
+    "name": "url_olde",
+    "language": "python",
+    "version": "0.6",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/url_olde.py",
+    "md5sum": "9a37276d865592a226558a4ee0baf1de",
+    "sha256": "0qa93q3fv9vj7arzczghj9p0q3d7xzv9rbip7nl01i6b608as2h8"
+  },
+  "zncplayback": {
+    "name": "zncplayback",
+    "language": "python",
+    "version": "0.1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/zncplayback.py",
+    "md5sum": "c629628232e234b8f23b72d2438b59de",
+    "sha256": "1mz9pmnrqv2pjk4wz9yp1bic49m8qbf4nh7pg4j7vghmpq9srkd9"
+  },
+  "gateway_rename": {
+    "name": "gateway_rename",
+    "language": "guile",
+    "version": "1.2.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/gateway_rename.scm",
+    "md5sum": "4e0017a9d947df5dbc092efe31944b5a",
+    "sha256": "11rp2rxxw6n6n1xrvdhn7bx05pp62dhn2hx6vsiy3gmm4yqa07b4"
+  },
+  "zncnotice": {
+    "name": "zncnotice",
+    "language": "python",
+    "version": "1.0.0",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/zncnotice.py",
+    "md5sum": "3e186db122d7dfc04130ed0ca86e5261",
+    "sha256": "06v6avjkq3z8amqn9z4b9b50yc4zh8c8an90r50yr9dyklp62idx"
+  },
+  "aformat": {
+    "name": "aformat",
+    "language": "python",
+    "version": "0.2",
+    "license": "WTFPL",
+    "url": "https://weechat.org/files/scripts/aformat.py",
+    "md5sum": "8b6d22de36dd0361805e9d165136bb41",
+    "sha256": "0rcza6inzj9y3yyq3j0l92nryzc20vqvgzwm6ng7nsgncq4y27pf"
+  },
+  "buffzilla": {
+    "name": "buffzilla",
+    "language": "ruby",
+    "version": "0.1",
+    "license": "Apache2.0",
+    "url": "https://weechat.org/files/scripts/buffzilla.rb",
+    "md5sum": "d5b2980dcb82f65eff18bd62ec2b06e5",
+    "sha256": "1si42qsk1pr94vwpqz56g4fnlz8lq71ai35gc87xa6jaszjwkq05"
+  },
+  "tictactoe": {
+    "name": "tictactoe",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/tictactoe.py",
+    "md5sum": "e9a4fe9190113311c5b12b5a4dc79aaa",
+    "sha256": "14lmssnrb4kn4w5b9dh2jjlyv7gscdxi9c76fkx7midfa82i8qs8"
+  },
+  "xfer_run_command": {
+    "name": "xfer_run_command",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/xfer_run_command.py",
+    "md5sum": "494f5bc42fc4aa7c0dd5099b9b9b7944",
+    "sha256": "0irhlwvplk00yhdfw09209ln35rynh3q4a935i2yi6ag1kaa8yym"
+  },
+  "gnome_screensaver_away": {
+    "name": "gnome_screensaver_away",
+    "language": "python",
+    "version": "0.2.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/gnome_screensaver_away.py",
+    "md5sum": "a3cb83c6b1071506fdff94d16ecdae68",
+    "sha256": "1ap6kxm7lzp0hbzigipi7mlqcqpcn4asbgwmiwkzz1wa5yw91g32"
+  },
+  "inverter": {
+    "name": "inverter",
+    "language": "tcl",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/inverter.tcl",
+    "md5sum": "fc75c9e9d4fee5a87601409aed38220a",
+    "sha256": "0gw1rwcn6xaswwnig7zmagj06f5jr0j4a8prbnjvx3540ncssjfs"
+  },
+  "weechataboo": {
+    "name": "weechataboo",
+    "language": "guile",
+    "version": "0.1.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/weechataboo.scm",
+    "md5sum": "a27485f0509e89fb3b796292f411872f",
+    "sha256": "1vqwmndjan6m8200008vj9divkfsqp4vijcnr9n8rc1fjbzija4d"
+  },
+  "tts": {
+    "name": "tts",
+    "language": "python",
+    "version": "0.2.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/tts.py",
+    "md5sum": "4b10fb062f1e572f6d69650b7af65369",
+    "sha256": "17c2yfravkarb978x4wnzczj3ic279lkgpkjpjd652f2jjf29myy"
+  },
+  "force_nick": {
+    "name": "force_nick",
+    "language": "python",
+    "version": "0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/force_nick.py",
+    "md5sum": "a256de5745e6c7c2c5d73423d3eb94c9",
+    "sha256": "1l1jiqb8bgq35bm7g5pg2jdm0naf8w28jhypz9sswfql0pbq7q86"
+  },
+  "detach_away": {
+    "name": "detach_away",
+    "language": "python",
+    "version": "0.1.0",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/detach_away.py",
+    "md5sum": "ef3701db555e1192e75d4a593b6d5c0f",
+    "sha256": "0x236m5dinnsd8w13p2y59z00f9lxg0a2j5s65hbbbxvkr481bsw"
+  },
+  "pushjet": {
+    "name": "pushjet",
+    "language": "python",
+    "version": "0.1.0",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/pushjet.py",
+    "md5sum": "04e88ea373a9c6fb7fbe3873839a9a09",
+    "sha256": "0a90lrhbcjabgd0qsz9x01z88ld3dhc15zzx5g1694xycjnbcil1"
+  },
+  "pushsafer": {
+    "name": "pushsafer",
+    "language": "ruby",
+    "version": "0.1",
+    "license": "APL",
+    "url": "https://weechat.org/files/scripts/pushsafer.rb",
+    "md5sum": "543be99050c174ed36e30bc9647c3441",
+    "sha256": "1mj2cw8p8dcjx544nih15r6pfq0wjlmibhfvw8kqin9b8wvwxysy"
+  },
+  "automerge": {
+    "name": "automerge",
+    "language": "python",
+    "version": "0.2",
+    "license": "GPL2",
+    "url": "https://weechat.org/files/scripts/automerge.py",
+    "md5sum": "b0e4625cedd6782fb4a4b61124f3f163",
+    "sha256": "1d6d08mpfg4crkzrlfbhdw267mxmfsrxz9aw0djpwninp6svikpd"
+  },
+  "giphy": {
+    "name": "giphy",
+    "language": "python",
+    "version": "1.0.2",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/giphy.py",
+    "md5sum": "4fe26488ae64930d6a2beb6079c7c0db",
+    "sha256": "1acwn95gyly1mfs7sqlhy8mrcc9qjcmw3gpf6f485f9f7bz13wfh"
+  },
+  "autoconf": {
+    "name": "autoconf",
+    "language": "python",
+    "version": "0.3",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/autoconf.py",
+    "md5sum": "8a587b3b225d8d961bfa2408c3d3f4b8",
+    "sha256": "1i81imlx4bcy3xl01lld1shj1wxqx2ixl72fwknb0s90gn7j4jrc"
+  },
+  "gribble": {
+    "name": "gribble",
+    "language": "python",
+    "version": "0.1",
+    "license": "Apache2.0",
+    "url": "https://weechat.org/files/scripts/gribble.py",
+    "md5sum": "9ac473d3faff51d65f612aa2c92ba53f",
+    "sha256": "1b135a1dzp3smci3i831kn6s8jjnzlj9alqqzl0z6s85kqysk9k9"
+  },
+  "i3lock_away": {
+    "name": "i3lock_away",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/i3lock_away.py",
+    "md5sum": "bfb30774ecefd0517b9273b28da3566c",
+    "sha256": "07n6jc8b57kwpnb7b011wy0p4snn5bw8npcqva8ibp5zsl5h8qrv"
+  },
+  "teknik": {
+    "name": "teknik",
+    "language": "python",
+    "version": "1.0.0",
+    "license": "BSD",
+    "url": "https://weechat.org/files/scripts/teknik.py",
+    "md5sum": "ba4d9c40fc2556db812e5a166fe2d158",
+    "sha256": "1zhi43cxjlqgqsyqjqzn1p7f57m6cs8lyzy9whsw4c4hzqaxxfwx"
+  },
+  "buffer_autohide": {
+    "name": "buffer_autohide",
+    "language": "python",
+    "version": "0.3",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/buffer_autohide.py",
+    "md5sum": "efc1b7aa628b0e59f2f6acd08dc5b07e",
+    "sha256": "183filkqx7wrzdfjhjqmvpm52a7gdvl89hyvkdpqd89i6ynydmlf"
+  },
+  "emojis": {
+    "name": "emojis",
+    "language": "python",
+    "version": "0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/emojis.py",
+    "md5sum": "5af6b0ed74672e974ef39a8926460d8a",
+    "sha256": "0cy516d0qvqnjny25nqhv7n0ii7kwq1z4j6p9shm5i3b6fqq5378"
+  },
+  "autobump": {
+    "name": "autobump",
+    "language": "python",
+    "version": "0.0.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/autobump.py",
+    "md5sum": "615a29811120f6474ff6dab1a375a44d",
+    "sha256": "0iw8gqh0z2yvsdqkglhdbf6j3wqqbz0x64afpnci5p88iy1c0z4j"
+  },
+  "xdccq": {
+    "name": "xdccq",
+    "language": "python",
+    "version": "0.1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/xdccq.py",
+    "md5sum": "c22bb0c83d3410ff93cd0eff0b0d0c9b",
+    "sha256": "0plg8z03j45kvivm159ni1lvv5kw55my257jvgnwrbrc7aim9l3k"
+  },
+  "url_hint": {
+    "name": "url_hint",
+    "language": "python",
+    "version": "0.6",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/url_hint.py",
+    "md5sum": "ad1d9437e8fcc51b2119b232676fcfc1",
+    "sha256": "1vsaiihrx0x4hn9583n1v50jmrd7rjmlh7dij82ylwqqp2nqq80w"
+  },
+  "foo": {
+    "name": "foo",
+    "language": "perl",
+    "version": "3.00",
+    "license": "Public_domain",
+    "url": "https://weechat.org/files/scripts/foo.pl",
+    "md5sum": "2707ba3ba24db6817a20874531eea420",
+    "sha256": "1qi4g3npy139lpvcp6y95h0charpva1ynnvmjk12vp3005qpz8j7"
+  },
+  "autonickprefix": {
+    "name": "autonickprefix",
+    "language": "perl",
+    "version": "1.00",
+    "license": "Public_domain",
+    "url": "https://weechat.org/files/scripts/autonickprefix.pl",
+    "md5sum": "80410b39a25f2e23c7c2246ba036626a",
+    "sha256": "1rh86cgbrrmjxb4nr6nlwchq4jcxvm3kshni5j6pwwv25rkdc01v"
+  },
+  "ctrl_w": {
+    "name": "ctrl_w",
+    "language": "perl",
+    "version": "1.00",
+    "license": "Public_domain",
+    "url": "https://weechat.org/files/scripts/ctrl_w.pl",
+    "md5sum": "5f2ddfd1a3786c9e226744bcb313b835",
+    "sha256": "1nbi62zggr95fbs5rpdbd4vfr8qmc42nl172i3rnbsy8wd2yd68q"
+  },
+  "topicdiff_alt": {
+    "name": "topicdiff_alt",
+    "language": "python",
+    "version": "1.01",
+    "license": "Public_domain",
+    "url": "https://weechat.org/files/scripts/topicdiff_alt.py",
+    "md5sum": "70e9a0a2c9132cf6af278de5b4af3772",
+    "sha256": "1fz7anwbl7817zdbs71a46bgw0v5811p4cknf4b6sylc4prcxqzv"
+  },
+  "execbot": {
+    "name": "execbot",
+    "language": "python",
+    "version": "1.1",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/execbot.py",
+    "md5sum": "6fdc342ecf2d206b75d97a17f38b37eb",
+    "sha256": "0x2yllw7vpgk91qjvhdf6xiaycnny99pdhfsvgk00a15bl4d3bn2"
+  },
+  "pv_info": {
+    "name": "pv_info",
+    "language": "perl",
+    "version": "0.0.5",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/pv_info.pl",
+    "md5sum": "27d8dd28aa36c86502d1d9e5e4d8c654",
+    "sha256": "0vmly27516l0m0li05zksnnfbd4xrxr1cq983hg36p5xamah6qya"
+  },
+  "weepushover": {
+    "name": "weepushover",
+    "language": "python",
+    "version": "0.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/weepushover.py",
+    "md5sum": "5c0e11e68375397f503d2fbd493ad842",
+    "sha256": "13ksyr221nzjmswzladl8d4wms6ldq9j22a5sfmcbwr0yqsrvhws"
+  },
+  "chanotify": {
+    "name": "chanotify",
+    "language": "python",
+    "version": "0.1.0",
+    "license": "GPL3",
+    "url": "https://weechat.org/files/scripts/chanotify.py",
+    "md5sum": "830208c1fa5d43560acecfb40a16344f",
+    "sha256": "0bkmbyaangvzg3b9igcrhg87wdksg4k5m7l0ssk9gyk8hw0nayp4"
+  },
+  "selfcensor": {
+    "name": "selfcensor",
+    "language": "python",
+    "version": "0.1",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/selfcensor.py",
+    "md5sum": "1f0cb6b54cb1b1dfa47873312f228b71",
+    "sha256": "1rw30l7r4h3zy4vjx151qxqfhfsxiw45ykxnd2b36qpi1fd1n1m6"
+  },
+  "weenotify": {
+    "name": "weenotify",
+    "language": "python",
+    "version": "0.4",
+    "license": "BSD-2c",
+    "url": "https://weechat.org/files/scripts/weenotify.py",
+    "md5sum": "8e7ed51f049974700a7e04393a55f874",
+    "sha256": "1pqiq022gf7pcc33ls2lkicw4p0vbkn1v4q98as255bv2iyi4x2q"
+  },
+  "pushbullet": {
+    "name": "pushbullet",
+    "language": "ruby",
+    "version": "1.0",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/pushbullet.rb",
+    "md5sum": "489edb6714a8e47c6983c96ffaa32747",
+    "sha256": "0is5n1zphcf3xr1k7z939h3jdnsw1y7hidlkhklynj9l53sk79w0"
+  },
+  "telnot": {
+    "name": "telnot",
+    "language": "python",
+    "version": "1.0",
+    "license": "MIT",
+    "url": "https://weechat.org/files/scripts/telnot.py",
+    "md5sum": "649e576a674138412a6cc387527aaeaf",
+    "sha256": "01jwp7qnf6jil6yg8kn4gvmix7nqkdwhaqfsvxrl73zbyfg2l9xs"
+  }
+}
